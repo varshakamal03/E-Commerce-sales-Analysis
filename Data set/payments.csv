@@ -1,0 +1,2501 @@
+order_id,payment_method,payment_status,shipping_charge
+1,Credit Card,Paid,15.88
+2,UPI,Paid,72.38
+3,Debit Card,Paid,60.97
+4,Net Banking,Paid,106.23
+5,Cash on Delivery,Failed,0.0
+6,Wallet,Paid,132.08
+7,UPI,Paid,14.94
+8,Cash on Delivery,Paid,120.11
+9,Debit Card,Paid,51.53
+10,UPI,Paid,234.58
+11,Net Banking,Paid,120.35
+12,Wallet,Paid,25.97
+13,Net Banking,Paid,199.61
+14,Net Banking,Paid,24.33
+15,Cash on Delivery,Failed,0.0
+16,Wallet,Paid,131.13
+17,Credit Card,Paid,82.67
+18,UPI,Paid,101.64
+19,UPI,Paid,35.7
+20,Cash on Delivery,Paid,164.14
+21,Wallet,Paid,18.03
+22,Debit Card,Failed,0.0
+23,Wallet,Paid,49.04
+24,UPI,Paid,46.17
+25,Cash on Delivery,Paid,107.93
+26,Debit Card,Failed,0.0
+27,Wallet,Failed,0.0
+28,Wallet,Pending,0.0
+29,Debit Card,Paid,228.88
+30,Debit Card,Paid,185.23
+31,UPI,Failed,0.0
+32,Credit Card,Paid,6.83
+33,UPI,Paid,25.77
+34,UPI,Failed,0.0
+35,Wallet,Paid,147.21
+36,UPI,Paid,245.78
+37,Credit Card,Paid,51.45
+38,Credit Card,Paid,32.18
+39,Debit Card,Paid,9.34
+40,Credit Card,Failed,0.0
+41,Cash on Delivery,Paid,32.62
+42,UPI,Paid,93.11
+43,UPI,Paid,23.9
+44,Cash on Delivery,Paid,189.38
+45,UPI,Paid,189.54
+46,Debit Card,Paid,52.27
+47,Credit Card,Paid,56.96
+48,Credit Card,Paid,129.26
+49,UPI,Pending,0.0
+50,Credit Card,Paid,60.81
+51,Debit Card,Paid,208.1
+52,Debit Card,Paid,83.31
+53,Credit Card,Paid,125.15
+54,Debit Card,Paid,152.35
+55,Net Banking,Failed,0.0
+56,Credit Card,Paid,65.93
+57,Net Banking,Paid,48.33
+58,UPI,Paid,182.42
+59,Debit Card,Paid,61.88
+60,Wallet,Paid,167.51
+61,Credit Card,Paid,69.18
+62,Wallet,Paid,156.27
+63,Net Banking,Paid,207.59
+64,UPI,Paid,83.65
+65,Net Banking,Paid,245.46
+66,Debit Card,Paid,140.68
+67,Net Banking,Paid,191.01
+68,Credit Card,Paid,92.43
+69,Wallet,Paid,127.72
+70,Net Banking,Paid,104.12
+71,Net Banking,Paid,195.69
+72,Credit Card,Paid,101.08
+73,Debit Card,Paid,39.81
+74,Debit Card,Paid,230.95
+75,Wallet,Paid,79.45
+76,Credit Card,Paid,140.3
+77,Wallet,Paid,231.48
+78,Wallet,Paid,220.17
+79,Cash on Delivery,Failed,0.0
+80,Debit Card,Paid,186.98
+81,Credit Card,Paid,219.36
+82,Net Banking,Paid,123.46
+83,Debit Card,Paid,25.81
+84,Credit Card,Paid,160.24
+85,Wallet,Paid,233.5
+86,Wallet,Pending,0.0
+87,Credit Card,Paid,81.0
+88,Wallet,Paid,71.65
+89,Cash on Delivery,Paid,187.27
+90,Credit Card,Failed,0.0
+91,UPI,Paid,103.24
+92,Wallet,Paid,134.6
+93,Net Banking,Paid,147.56
+94,Cash on Delivery,Paid,188.01
+95,Wallet,Paid,19.29
+96,Credit Card,Paid,168.45
+97,UPI,Paid,98.41
+98,Wallet,Paid,49.18
+99,UPI,Paid,61.21
+100,Credit Card,Paid,118.5
+101,Net Banking,Paid,172.78
+102,UPI,Paid,235.75
+103,Cash on Delivery,Paid,105.9
+104,Cash on Delivery,Paid,225.96
+105,Credit Card,Paid,96.65
+106,Credit Card,Paid,29.46
+107,Debit Card,Failed,0.0
+108,Credit Card,Paid,148.04
+109,Net Banking,Paid,99.22
+110,Debit Card,Paid,209.58
+111,Wallet,Paid,41.11
+112,Debit Card,Paid,86.12
+113,Credit Card,Paid,149.46
+114,Wallet,Paid,232.69
+115,Cash on Delivery,Paid,157.65
+116,Credit Card,Paid,98.85
+117,Cash on Delivery,Paid,211.62
+118,Wallet,Paid,27.46
+119,Wallet,Paid,227.76
+120,Cash on Delivery,Paid,115.04
+121,Net Banking,Paid,247.39
+122,Wallet,Paid,222.25
+123,Debit Card,Paid,55.17
+124,UPI,Paid,238.98
+125,Debit Card,Paid,196.32
+126,UPI,Paid,100.34
+127,Cash on Delivery,Paid,150.41
+128,UPI,Paid,190.35
+129,Credit Card,Paid,57.91
+130,Credit Card,Failed,0.0
+131,Wallet,Paid,104.82
+132,Credit Card,Paid,239.25
+133,UPI,Paid,70.36
+134,Cash on Delivery,Paid,199.29
+135,Wallet,Paid,15.52
+136,Net Banking,Paid,123.41
+137,Credit Card,Failed,0.0
+138,Debit Card,Paid,227.18
+139,Net Banking,Paid,2.61
+140,Wallet,Paid,177.59
+141,UPI,Paid,192.91
+142,Debit Card,Paid,164.04
+143,UPI,Pending,0.0
+144,Cash on Delivery,Paid,207.7
+145,Net Banking,Paid,231.46
+146,Cash on Delivery,Paid,249.81
+147,UPI,Paid,219.04
+148,Credit Card,Paid,72.99
+149,Credit Card,Paid,64.45
+150,Debit Card,Pending,0.0
+151,Debit Card,Paid,222.04
+152,Credit Card,Failed,0.0
+153,UPI,Paid,106.37
+154,Cash on Delivery,Paid,246.09
+155,Cash on Delivery,Paid,24.92
+156,Net Banking,Pending,0.0
+157,Debit Card,Paid,196.8
+158,UPI,Failed,0.0
+159,UPI,Paid,197.68
+160,UPI,Failed,0.0
+161,Credit Card,Paid,195.67
+162,Wallet,Paid,77.36
+163,UPI,Paid,249.09
+164,Net Banking,Paid,167.25
+165,Cash on Delivery,Paid,138.91
+166,Debit Card,Paid,23.0
+167,Cash on Delivery,Paid,114.84
+168,Debit Card,Paid,34.18
+169,Wallet,Paid,18.77
+170,Credit Card,Pending,0.0
+171,Net Banking,Failed,0.0
+172,Debit Card,Paid,122.71
+173,Net Banking,Paid,46.88
+174,Cash on Delivery,Paid,197.15
+175,Wallet,Paid,124.83
+176,UPI,Paid,164.41
+177,Cash on Delivery,Paid,249.69
+178,Wallet,Paid,37.94
+179,UPI,Paid,19.03
+180,Debit Card,Paid,54.45
+181,Cash on Delivery,Paid,165.86
+182,Credit Card,Failed,0.0
+183,Net Banking,Paid,136.97
+184,Debit Card,Paid,41.81
+185,Wallet,Paid,124.21
+186,UPI,Paid,0.5
+187,Debit Card,Paid,121.64
+188,Wallet,Paid,116.64
+189,Wallet,Paid,153.4
+190,Debit Card,Paid,106.48
+191,Cash on Delivery,Paid,142.55
+192,Credit Card,Pending,0.0
+193,UPI,Failed,0.0
+194,Cash on Delivery,Paid,247.6
+195,Debit Card,Paid,108.17
+196,Wallet,Paid,229.25
+197,Debit Card,Paid,194.57
+198,Credit Card,Paid,212.93
+199,Wallet,Paid,181.1
+200,Net Banking,Paid,101.05
+201,Debit Card,Paid,101.27
+202,Net Banking,Paid,218.49
+203,Wallet,Paid,10.71
+204,Wallet,Paid,230.25
+205,Credit Card,Paid,1.27
+206,Cash on Delivery,Paid,162.07
+207,Credit Card,Failed,0.0
+208,Wallet,Paid,127.99
+209,UPI,Paid,219.24
+210,Wallet,Paid,245.12
+211,Cash on Delivery,Paid,149.88
+212,Wallet,Failed,0.0
+213,UPI,Paid,121.47
+214,UPI,Paid,117.93
+215,Cash on Delivery,Paid,180.03
+216,Wallet,Paid,40.33
+217,Cash on Delivery,Paid,37.02
+218,Credit Card,Paid,70.98
+219,Net Banking,Paid,81.69
+220,Credit Card,Paid,89.48
+221,Cash on Delivery,Paid,74.29
+222,UPI,Paid,9.75
+223,Debit Card,Paid,113.09
+224,Credit Card,Paid,93.26
+225,Wallet,Paid,28.87
+226,Wallet,Paid,7.43
+227,Debit Card,Paid,48.56
+228,Net Banking,Failed,0.0
+229,Credit Card,Pending,0.0
+230,Cash on Delivery,Paid,148.01
+231,UPI,Pending,0.0
+232,Net Banking,Failed,0.0
+233,Wallet,Paid,175.05
+234,Net Banking,Paid,139.13
+235,Net Banking,Paid,131.05
+236,Cash on Delivery,Paid,4.3
+237,Debit Card,Paid,25.58
+238,Wallet,Paid,235.81
+239,UPI,Paid,153.32
+240,Credit Card,Paid,196.66
+241,UPI,Paid,232.46
+242,Debit Card,Failed,0.0
+243,Cash on Delivery,Paid,102.5
+244,Wallet,Paid,220.95
+245,Credit Card,Failed,0.0
+246,Credit Card,Paid,21.25
+247,Cash on Delivery,Paid,231.58
+248,Net Banking,Paid,55.5
+249,Cash on Delivery,Paid,160.62
+250,Wallet,Failed,0.0
+251,Net Banking,Failed,0.0
+252,UPI,Paid,166.91
+253,UPI,Failed,0.0
+254,Wallet,Paid,155.14
+255,Net Banking,Pending,0.0
+256,Credit Card,Paid,205.5
+257,Cash on Delivery,Paid,3.44
+258,Cash on Delivery,Paid,80.79
+259,Net Banking,Paid,196.06
+260,Debit Card,Paid,174.47
+261,Debit Card,Paid,46.64
+262,Wallet,Failed,0.0
+263,Net Banking,Paid,150.69
+264,Wallet,Paid,12.21
+265,Credit Card,Paid,129.96
+266,Net Banking,Paid,3.69
+267,UPI,Paid,97.13
+268,Credit Card,Paid,58.38
+269,Debit Card,Paid,111.01
+270,Net Banking,Paid,79.59
+271,UPI,Paid,231.61
+272,Cash on Delivery,Paid,17.28
+273,Cash on Delivery,Paid,14.65
+274,Wallet,Paid,5.12
+275,Net Banking,Paid,180.72
+276,Credit Card,Paid,160.04
+277,Debit Card,Paid,67.34
+278,Net Banking,Paid,214.92
+279,Credit Card,Failed,0.0
+280,UPI,Paid,132.88
+281,Credit Card,Paid,185.99
+282,Credit Card,Pending,0.0
+283,Credit Card,Failed,0.0
+284,Debit Card,Failed,0.0
+285,UPI,Paid,68.48
+286,Credit Card,Paid,76.95
+287,Debit Card,Paid,61.65
+288,Cash on Delivery,Paid,27.0
+289,Debit Card,Paid,114.63
+290,Cash on Delivery,Paid,232.04
+291,Net Banking,Paid,140.77
+292,Credit Card,Paid,69.39
+293,UPI,Paid,59.79
+294,Credit Card,Paid,164.29
+295,Debit Card,Paid,168.91
+296,Credit Card,Paid,232.73
+297,Debit Card,Paid,160.01
+298,Credit Card,Pending,0.0
+299,Credit Card,Paid,11.52
+300,Credit Card,Paid,151.28
+301,Wallet,Paid,154.31
+302,Credit Card,Paid,24.8
+303,Credit Card,Paid,150.06
+304,UPI,Paid,75.51
+305,Cash on Delivery,Paid,231.9
+306,UPI,Paid,89.8
+307,Credit Card,Paid,224.96
+308,Credit Card,Paid,118.71
+309,UPI,Failed,0.0
+310,Credit Card,Paid,204.85
+311,Credit Card,Paid,30.28
+312,Credit Card,Paid,125.03
+313,Debit Card,Paid,1.9
+314,Net Banking,Paid,23.8
+315,UPI,Paid,144.11
+316,Credit Card,Paid,93.42
+317,Credit Card,Failed,0.0
+318,Net Banking,Paid,21.19
+319,UPI,Paid,161.53
+320,Credit Card,Failed,0.0
+321,Wallet,Paid,85.4
+322,Credit Card,Paid,46.05
+323,Wallet,Paid,179.49
+324,Net Banking,Paid,16.0
+325,Debit Card,Paid,242.46
+326,Debit Card,Failed,0.0
+327,Net Banking,Paid,144.84
+328,Credit Card,Paid,56.73
+329,Debit Card,Paid,181.74
+330,Credit Card,Failed,0.0
+331,Credit Card,Paid,20.71
+332,Wallet,Paid,117.18
+333,Cash on Delivery,Pending,0.0
+334,Debit Card,Paid,82.87
+335,Wallet,Paid,71.98
+336,UPI,Paid,195.59
+337,Debit Card,Paid,236.25
+338,Wallet,Paid,153.57
+339,UPI,Pending,0.0
+340,Net Banking,Paid,106.98
+341,Net Banking,Paid,85.0
+342,Wallet,Paid,117.73
+343,Net Banking,Pending,0.0
+344,UPI,Failed,0.0
+345,Cash on Delivery,Paid,40.03
+346,Wallet,Paid,162.0
+347,UPI,Paid,101.69
+348,Wallet,Paid,156.24
+349,Credit Card,Paid,17.31
+350,Net Banking,Paid,156.52
+351,Net Banking,Paid,6.01
+352,Net Banking,Paid,158.15
+353,Credit Card,Failed,0.0
+354,Credit Card,Paid,37.79
+355,UPI,Paid,134.79
+356,UPI,Paid,217.25
+357,Wallet,Paid,129.2
+358,Cash on Delivery,Paid,91.91
+359,Net Banking,Paid,20.95
+360,Credit Card,Paid,151.57
+361,UPI,Paid,7.23
+362,Net Banking,Paid,207.54
+363,Credit Card,Paid,142.45
+364,Wallet,Paid,37.13
+365,Wallet,Paid,18.29
+366,Net Banking,Paid,86.14
+367,Cash on Delivery,Paid,212.86
+368,Net Banking,Failed,0.0
+369,Credit Card,Paid,242.72
+370,Cash on Delivery,Paid,178.4
+371,Wallet,Paid,138.44
+372,Net Banking,Paid,103.18
+373,Debit Card,Paid,223.88
+374,Cash on Delivery,Failed,0.0
+375,UPI,Paid,24.59
+376,UPI,Paid,203.63
+377,Credit Card,Paid,175.08
+378,Credit Card,Paid,107.77
+379,Credit Card,Paid,217.88
+380,Credit Card,Paid,121.96
+381,Debit Card,Failed,0.0
+382,Credit Card,Pending,0.0
+383,Credit Card,Failed,0.0
+384,Debit Card,Paid,168.16
+385,Net Banking,Paid,153.4
+386,Debit Card,Failed,0.0
+387,Cash on Delivery,Paid,73.38
+388,Credit Card,Paid,69.67
+389,Cash on Delivery,Failed,0.0
+390,Debit Card,Paid,207.62
+391,Net Banking,Paid,156.37
+392,Net Banking,Paid,144.65
+393,Net Banking,Failed,0.0
+394,Cash on Delivery,Paid,232.2
+395,Credit Card,Paid,204.61
+396,Net Banking,Paid,191.48
+397,Net Banking,Paid,177.74
+398,Credit Card,Paid,184.92
+399,Cash on Delivery,Paid,110.21
+400,Debit Card,Paid,171.2
+401,Credit Card,Paid,18.24
+402,Debit Card,Paid,109.27
+403,Debit Card,Paid,225.26
+404,Credit Card,Failed,0.0
+405,Credit Card,Paid,73.18
+406,Cash on Delivery,Paid,245.99
+407,Wallet,Failed,0.0
+408,Wallet,Pending,0.0
+409,Wallet,Paid,1.56
+410,Net Banking,Pending,0.0
+411,Net Banking,Paid,214.49
+412,UPI,Paid,216.0
+413,Wallet,Paid,12.98
+414,Credit Card,Paid,162.43
+415,UPI,Paid,73.15
+416,Credit Card,Paid,193.54
+417,Wallet,Paid,182.78
+418,Credit Card,Failed,0.0
+419,Cash on Delivery,Paid,174.68
+420,UPI,Paid,179.44
+421,Net Banking,Paid,191.48
+422,Net Banking,Paid,49.28
+423,Wallet,Paid,35.16
+424,Cash on Delivery,Paid,106.58
+425,UPI,Paid,247.11
+426,Credit Card,Pending,0.0
+427,UPI,Paid,222.84
+428,Cash on Delivery,Paid,73.04
+429,Credit Card,Pending,0.0
+430,Debit Card,Paid,193.31
+431,Credit Card,Paid,51.15
+432,Net Banking,Paid,212.28
+433,Net Banking,Paid,5.74
+434,Credit Card,Paid,234.63
+435,Cash on Delivery,Paid,101.37
+436,Wallet,Paid,21.45
+437,UPI,Paid,212.96
+438,Debit Card,Paid,151.65
+439,Net Banking,Paid,219.18
+440,UPI,Paid,140.57
+441,Net Banking,Paid,69.98
+442,UPI,Paid,28.43
+443,Debit Card,Paid,155.41
+444,UPI,Paid,227.02
+445,Debit Card,Pending,0.0
+446,Wallet,Paid,242.28
+447,UPI,Paid,27.07
+448,Net Banking,Paid,27.43
+449,Cash on Delivery,Paid,178.85
+450,Wallet,Pending,0.0
+451,UPI,Paid,54.18
+452,Cash on Delivery,Paid,144.27
+453,Wallet,Paid,8.93
+454,UPI,Paid,15.31
+455,Credit Card,Paid,15.97
+456,Cash on Delivery,Paid,84.98
+457,Debit Card,Paid,47.73
+458,UPI,Paid,68.61
+459,Net Banking,Paid,77.57
+460,Cash on Delivery,Paid,12.48
+461,Wallet,Paid,3.01
+462,Net Banking,Failed,0.0
+463,Debit Card,Paid,95.36
+464,Net Banking,Paid,210.2
+465,Debit Card,Paid,9.02
+466,Cash on Delivery,Failed,0.0
+467,Net Banking,Paid,197.58
+468,Net Banking,Paid,224.36
+469,Cash on Delivery,Paid,161.46
+470,Wallet,Paid,25.71
+471,Debit Card,Paid,128.99
+472,Cash on Delivery,Paid,244.44
+473,Cash on Delivery,Paid,142.82
+474,Net Banking,Paid,109.64
+475,Wallet,Paid,130.33
+476,Credit Card,Paid,103.46
+477,UPI,Paid,179.85
+478,Debit Card,Paid,242.41
+479,Debit Card,Paid,47.4
+480,Cash on Delivery,Paid,16.74
+481,Debit Card,Paid,109.93
+482,Credit Card,Failed,0.0
+483,Credit Card,Paid,91.19
+484,Credit Card,Paid,144.63
+485,Cash on Delivery,Paid,40.77
+486,Net Banking,Paid,164.86
+487,Wallet,Paid,120.49
+488,UPI,Paid,170.33
+489,Debit Card,Paid,232.26
+490,Net Banking,Paid,151.19
+491,Credit Card,Paid,1.62
+492,Debit Card,Paid,51.13
+493,Net Banking,Pending,0.0
+494,Net Banking,Paid,107.5
+495,Wallet,Paid,55.49
+496,Debit Card,Failed,0.0
+497,Debit Card,Paid,202.75
+498,Credit Card,Paid,79.98
+499,Debit Card,Paid,235.85
+500,Net Banking,Failed,0.0
+501,Credit Card,Paid,1.1
+502,Credit Card,Paid,235.34
+503,Cash on Delivery,Paid,230.96
+504,Wallet,Paid,210.59
+505,Credit Card,Paid,138.89
+506,Credit Card,Paid,237.53
+507,Net Banking,Paid,113.97
+508,UPI,Paid,30.22
+509,Debit Card,Paid,35.05
+510,Wallet,Paid,120.18
+511,Net Banking,Paid,49.6
+512,UPI,Paid,2.16
+513,Credit Card,Pending,0.0
+514,Credit Card,Paid,179.08
+515,Credit Card,Paid,73.8
+516,Credit Card,Paid,222.11
+517,Debit Card,Failed,0.0
+518,Net Banking,Paid,212.19
+519,Net Banking,Paid,246.36
+520,Cash on Delivery,Paid,208.55
+521,Net Banking,Paid,233.67
+522,Cash on Delivery,Paid,157.72
+523,Debit Card,Paid,177.44
+524,Net Banking,Paid,100.66
+525,Debit Card,Paid,10.17
+526,Wallet,Paid,94.41
+527,Credit Card,Paid,71.89
+528,Debit Card,Failed,0.0
+529,Cash on Delivery,Paid,178.35
+530,Debit Card,Paid,236.24
+531,Wallet,Failed,0.0
+532,Net Banking,Failed,0.0
+533,Debit Card,Paid,49.07
+534,Credit Card,Paid,239.3
+535,UPI,Paid,144.86
+536,Credit Card,Paid,246.02
+537,Net Banking,Paid,5.31
+538,Net Banking,Paid,167.94
+539,UPI,Paid,83.64
+540,Cash on Delivery,Paid,28.57
+541,Debit Card,Pending,0.0
+542,Wallet,Paid,24.05
+543,Wallet,Paid,207.2
+544,UPI,Paid,7.68
+545,UPI,Failed,0.0
+546,Debit Card,Paid,140.13
+547,Wallet,Paid,65.41
+548,Debit Card,Paid,149.47
+549,Credit Card,Paid,55.16
+550,Cash on Delivery,Paid,178.43
+551,UPI,Paid,150.03
+552,Cash on Delivery,Paid,100.73
+553,Debit Card,Paid,96.1
+554,Wallet,Failed,0.0
+555,Net Banking,Paid,246.24
+556,Debit Card,Paid,169.69
+557,Credit Card,Paid,5.74
+558,Net Banking,Paid,173.17
+559,Net Banking,Paid,105.82
+560,Cash on Delivery,Paid,35.5
+561,Debit Card,Paid,65.97
+562,Credit Card,Pending,0.0
+563,Net Banking,Failed,0.0
+564,Debit Card,Paid,0.65
+565,UPI,Failed,0.0
+566,Wallet,Paid,168.83
+567,Credit Card,Failed,0.0
+568,Net Banking,Paid,166.02
+569,Wallet,Paid,186.57
+570,Debit Card,Paid,21.5
+571,Debit Card,Paid,69.95
+572,Net Banking,Paid,219.35
+573,Wallet,Paid,50.73
+574,Wallet,Paid,174.02
+575,Credit Card,Failed,0.0
+576,Debit Card,Failed,0.0
+577,Wallet,Pending,0.0
+578,Net Banking,Pending,0.0
+579,Credit Card,Paid,202.96
+580,UPI,Paid,14.22
+581,UPI,Paid,131.58
+582,Credit Card,Paid,16.49
+583,UPI,Paid,181.78
+584,Debit Card,Paid,213.4
+585,UPI,Paid,43.37
+586,Credit Card,Paid,83.98
+587,UPI,Pending,0.0
+588,Cash on Delivery,Paid,189.0
+589,UPI,Paid,155.41
+590,Debit Card,Paid,176.57
+591,Net Banking,Paid,106.17
+592,Net Banking,Paid,98.48
+593,Wallet,Paid,6.18
+594,UPI,Paid,35.08
+595,Wallet,Paid,107.27
+596,Cash on Delivery,Paid,75.77
+597,Wallet,Paid,245.35
+598,UPI,Paid,217.95
+599,Credit Card,Pending,0.0
+600,UPI,Paid,9.08
+601,Cash on Delivery,Paid,236.72
+602,Wallet,Paid,61.13
+603,Net Banking,Paid,124.3
+604,Credit Card,Failed,0.0
+605,Cash on Delivery,Paid,125.96
+606,UPI,Failed,0.0
+607,UPI,Paid,186.75
+608,Net Banking,Paid,151.6
+609,Net Banking,Paid,183.36
+610,UPI,Paid,189.37
+611,Net Banking,Paid,106.79
+612,UPI,Paid,127.27
+613,Credit Card,Paid,164.55
+614,Credit Card,Paid,102.29
+615,Cash on Delivery,Paid,131.49
+616,Debit Card,Paid,6.14
+617,Net Banking,Paid,219.77
+618,Credit Card,Paid,114.97
+619,Cash on Delivery,Paid,39.73
+620,Net Banking,Paid,110.96
+621,Cash on Delivery,Paid,2.8
+622,Credit Card,Paid,111.89
+623,Net Banking,Paid,247.38
+624,Credit Card,Paid,137.57
+625,Wallet,Paid,223.0
+626,Cash on Delivery,Paid,0.17
+627,Cash on Delivery,Paid,60.46
+628,Cash on Delivery,Paid,26.54
+629,Cash on Delivery,Paid,119.16
+630,Net Banking,Paid,80.68
+631,Net Banking,Paid,95.05
+632,Credit Card,Paid,228.03
+633,Wallet,Paid,133.05
+634,UPI,Paid,229.61
+635,Debit Card,Pending,0.0
+636,Net Banking,Paid,27.34
+637,Net Banking,Pending,0.0
+638,Cash on Delivery,Paid,145.68
+639,Credit Card,Paid,147.56
+640,Debit Card,Pending,0.0
+641,Debit Card,Paid,200.36
+642,Net Banking,Paid,20.07
+643,Debit Card,Paid,131.4
+644,Wallet,Paid,90.27
+645,Wallet,Paid,150.87
+646,Cash on Delivery,Paid,176.0
+647,Net Banking,Paid,140.29
+648,Net Banking,Failed,0.0
+649,Net Banking,Paid,248.1
+650,Wallet,Paid,4.17
+651,Credit Card,Paid,4.5
+652,Credit Card,Paid,84.97
+653,Wallet,Paid,126.79
+654,UPI,Paid,123.35
+655,UPI,Paid,100.38
+656,Debit Card,Paid,37.31
+657,Credit Card,Paid,212.75
+658,Credit Card,Paid,205.21
+659,UPI,Paid,96.11
+660,UPI,Pending,0.0
+661,Net Banking,Paid,159.73
+662,Credit Card,Paid,203.1
+663,Net Banking,Paid,162.8
+664,Debit Card,Paid,175.44
+665,Debit Card,Paid,59.8
+666,Wallet,Pending,0.0
+667,UPI,Paid,174.32
+668,Wallet,Paid,23.01
+669,Debit Card,Paid,76.27
+670,Cash on Delivery,Pending,0.0
+671,Net Banking,Paid,169.57
+672,Debit Card,Pending,0.0
+673,Net Banking,Paid,135.69
+674,Credit Card,Paid,90.47
+675,Debit Card,Paid,54.72
+676,UPI,Paid,70.17
+677,Cash on Delivery,Paid,243.8
+678,Net Banking,Paid,88.48
+679,Credit Card,Paid,166.56
+680,Cash on Delivery,Paid,49.57
+681,Wallet,Paid,214.04
+682,Debit Card,Paid,163.73
+683,Wallet,Pending,0.0
+684,Net Banking,Paid,208.03
+685,Net Banking,Paid,207.47
+686,Credit Card,Paid,38.56
+687,Net Banking,Paid,118.19
+688,UPI,Paid,231.08
+689,Debit Card,Pending,0.0
+690,Wallet,Paid,102.13
+691,Cash on Delivery,Paid,54.61
+692,Debit Card,Paid,75.19
+693,Wallet,Paid,107.66
+694,Debit Card,Paid,216.63
+695,UPI,Paid,190.79
+696,Debit Card,Paid,199.93
+697,Wallet,Paid,7.97
+698,Debit Card,Paid,100.22
+699,UPI,Paid,12.78
+700,Credit Card,Paid,229.44
+701,Credit Card,Paid,141.79
+702,Net Banking,Paid,56.82
+703,Credit Card,Paid,211.13
+704,Debit Card,Paid,158.73
+705,Wallet,Pending,0.0
+706,Wallet,Paid,1.2
+707,UPI,Paid,15.86
+708,Cash on Delivery,Paid,248.2
+709,UPI,Paid,169.15
+710,Wallet,Paid,1.22
+711,UPI,Failed,0.0
+712,Cash on Delivery,Paid,23.55
+713,Credit Card,Paid,221.18
+714,Net Banking,Paid,149.16
+715,Wallet,Paid,168.08
+716,Credit Card,Failed,0.0
+717,Net Banking,Paid,155.11
+718,Debit Card,Paid,47.02
+719,Wallet,Paid,226.41
+720,Credit Card,Paid,164.21
+721,Debit Card,Paid,248.44
+722,Debit Card,Paid,46.16
+723,Debit Card,Paid,37.25
+724,Wallet,Paid,95.08
+725,Wallet,Paid,85.99
+726,Cash on Delivery,Paid,90.87
+727,Credit Card,Paid,138.5
+728,Debit Card,Paid,73.14
+729,Debit Card,Pending,0.0
+730,Net Banking,Paid,244.2
+731,Wallet,Paid,20.21
+732,UPI,Paid,19.6
+733,Debit Card,Paid,86.01
+734,Wallet,Paid,54.98
+735,UPI,Paid,230.95
+736,Net Banking,Paid,46.62
+737,Net Banking,Paid,113.91
+738,Debit Card,Paid,96.32
+739,Credit Card,Failed,0.0
+740,Wallet,Paid,79.37
+741,Net Banking,Paid,179.79
+742,Wallet,Paid,41.7
+743,Net Banking,Failed,0.0
+744,Debit Card,Failed,0.0
+745,Credit Card,Pending,0.0
+746,UPI,Paid,128.42
+747,Cash on Delivery,Paid,243.93
+748,Net Banking,Paid,39.95
+749,UPI,Paid,105.97
+750,Cash on Delivery,Paid,208.06
+751,Credit Card,Paid,230.74
+752,UPI,Paid,108.96
+753,UPI,Paid,77.69
+754,Debit Card,Paid,180.28
+755,Cash on Delivery,Paid,35.71
+756,Wallet,Paid,175.97
+757,Credit Card,Paid,169.17
+758,Credit Card,Paid,238.07
+759,Credit Card,Paid,206.95
+760,Cash on Delivery,Paid,132.65
+761,Cash on Delivery,Paid,86.04
+762,Wallet,Pending,0.0
+763,Credit Card,Paid,14.3
+764,Credit Card,Paid,100.18
+765,Wallet,Paid,36.19
+766,Wallet,Paid,59.39
+767,Credit Card,Paid,117.85
+768,Net Banking,Paid,94.65
+769,Credit Card,Failed,0.0
+770,UPI,Paid,27.55
+771,Cash on Delivery,Paid,6.07
+772,Debit Card,Paid,48.52
+773,Wallet,Paid,50.78
+774,Net Banking,Paid,220.73
+775,Debit Card,Failed,0.0
+776,UPI,Paid,221.65
+777,Credit Card,Paid,166.12
+778,Net Banking,Paid,29.68
+779,Debit Card,Paid,3.95
+780,Credit Card,Failed,0.0
+781,Wallet,Failed,0.0
+782,Wallet,Paid,234.03
+783,Net Banking,Paid,225.81
+784,UPI,Pending,0.0
+785,Credit Card,Pending,0.0
+786,Cash on Delivery,Paid,27.89
+787,Net Banking,Failed,0.0
+788,Cash on Delivery,Paid,20.85
+789,Cash on Delivery,Paid,122.29
+790,Credit Card,Paid,39.18
+791,Credit Card,Paid,99.27
+792,Debit Card,Pending,0.0
+793,Wallet,Paid,115.13
+794,UPI,Paid,193.22
+795,Cash on Delivery,Paid,128.46
+796,UPI,Paid,110.52
+797,Cash on Delivery,Paid,185.12
+798,UPI,Paid,93.29
+799,Debit Card,Paid,68.54
+800,Credit Card,Paid,1.47
+801,Net Banking,Paid,185.6
+802,Cash on Delivery,Paid,123.59
+803,Credit Card,Paid,186.19
+804,Debit Card,Paid,220.12
+805,Debit Card,Paid,125.75
+806,Net Banking,Paid,11.81
+807,UPI,Paid,68.05
+808,Wallet,Paid,197.17
+809,Wallet,Paid,172.44
+810,Debit Card,Paid,156.36
+811,Wallet,Paid,36.55
+812,Cash on Delivery,Paid,126.25
+813,Credit Card,Paid,207.53
+814,Net Banking,Paid,43.13
+815,Debit Card,Paid,25.03
+816,Net Banking,Paid,15.03
+817,Credit Card,Paid,37.22
+818,Cash on Delivery,Paid,164.38
+819,Credit Card,Paid,43.45
+820,Wallet,Paid,49.25
+821,Wallet,Paid,96.68
+822,Wallet,Paid,102.77
+823,UPI,Paid,59.39
+824,Wallet,Paid,170.06
+825,Wallet,Paid,119.72
+826,Net Banking,Paid,150.06
+827,Cash on Delivery,Paid,148.13
+828,Net Banking,Paid,107.1
+829,UPI,Paid,5.78
+830,Debit Card,Paid,174.69
+831,UPI,Paid,241.63
+832,Net Banking,Pending,0.0
+833,Credit Card,Paid,67.25
+834,UPI,Paid,198.61
+835,Cash on Delivery,Paid,80.16
+836,Net Banking,Paid,1.6
+837,UPI,Paid,220.54
+838,UPI,Paid,155.55
+839,Debit Card,Paid,90.45
+840,Debit Card,Failed,0.0
+841,Net Banking,Failed,0.0
+842,Credit Card,Paid,154.21
+843,Net Banking,Paid,205.68
+844,Net Banking,Paid,106.95
+845,Net Banking,Paid,111.54
+846,UPI,Paid,172.02
+847,Cash on Delivery,Paid,103.82
+848,Net Banking,Paid,60.13
+849,UPI,Paid,33.62
+850,Net Banking,Paid,230.92
+851,Credit Card,Paid,234.99
+852,Net Banking,Paid,51.87
+853,Cash on Delivery,Paid,211.52
+854,Wallet,Paid,71.62
+855,Credit Card,Failed,0.0
+856,Credit Card,Paid,171.85
+857,Debit Card,Pending,0.0
+858,UPI,Paid,75.48
+859,Net Banking,Paid,43.98
+860,Wallet,Paid,54.6
+861,Wallet,Paid,27.61
+862,Net Banking,Paid,194.78
+863,Credit Card,Paid,156.55
+864,Credit Card,Paid,73.88
+865,Cash on Delivery,Paid,99.2
+866,Net Banking,Paid,51.8
+867,Debit Card,Pending,0.0
+868,Debit Card,Paid,97.07
+869,Cash on Delivery,Paid,96.87
+870,Net Banking,Paid,231.74
+871,Cash on Delivery,Paid,139.68
+872,UPI,Failed,0.0
+873,UPI,Failed,0.0
+874,Credit Card,Paid,121.61
+875,Wallet,Paid,56.96
+876,Wallet,Paid,210.73
+877,Cash on Delivery,Paid,243.88
+878,Credit Card,Paid,194.87
+879,Cash on Delivery,Paid,28.4
+880,Net Banking,Paid,233.76
+881,Cash on Delivery,Paid,55.76
+882,Debit Card,Paid,12.47
+883,Wallet,Paid,36.29
+884,Cash on Delivery,Paid,112.92
+885,Credit Card,Failed,0.0
+886,Debit Card,Paid,119.95
+887,UPI,Paid,21.88
+888,Wallet,Paid,145.85
+889,Net Banking,Failed,0.0
+890,Net Banking,Paid,83.67
+891,Cash on Delivery,Paid,182.27
+892,Cash on Delivery,Paid,164.04
+893,Cash on Delivery,Failed,0.0
+894,Net Banking,Failed,0.0
+895,Cash on Delivery,Pending,0.0
+896,Cash on Delivery,Paid,150.07
+897,Credit Card,Paid,26.61
+898,Debit Card,Paid,136.57
+899,Debit Card,Paid,246.96
+900,Wallet,Paid,23.73
+901,Wallet,Paid,25.5
+902,UPI,Pending,0.0
+903,Net Banking,Paid,52.81
+904,Wallet,Paid,78.35
+905,UPI,Paid,248.29
+906,UPI,Paid,42.04
+907,Debit Card,Paid,208.2
+908,Credit Card,Paid,186.21
+909,UPI,Paid,104.64
+910,Net Banking,Paid,54.48
+911,Cash on Delivery,Pending,0.0
+912,Cash on Delivery,Paid,209.8
+913,Wallet,Paid,177.63
+914,Cash on Delivery,Paid,13.39
+915,Credit Card,Paid,174.42
+916,Credit Card,Paid,160.75
+917,UPI,Paid,106.5
+918,Credit Card,Paid,198.84
+919,UPI,Paid,97.25
+920,Wallet,Paid,48.62
+921,Credit Card,Pending,0.0
+922,Cash on Delivery,Paid,215.25
+923,Cash on Delivery,Paid,9.16
+924,Debit Card,Paid,172.31
+925,Credit Card,Paid,119.06
+926,Debit Card,Paid,187.43
+927,Debit Card,Paid,125.88
+928,Net Banking,Paid,225.95
+929,Credit Card,Paid,170.02
+930,Cash on Delivery,Pending,0.0
+931,UPI,Paid,38.29
+932,Wallet,Paid,54.46
+933,Credit Card,Paid,227.69
+934,Debit Card,Paid,26.46
+935,UPI,Paid,208.41
+936,Credit Card,Paid,80.67
+937,UPI,Pending,0.0
+938,Debit Card,Paid,208.02
+939,Credit Card,Paid,226.15
+940,Wallet,Paid,247.86
+941,Net Banking,Paid,202.77
+942,Cash on Delivery,Paid,98.79
+943,Debit Card,Paid,89.5
+944,Credit Card,Paid,180.83
+945,Debit Card,Paid,58.44
+946,Credit Card,Paid,194.0
+947,Cash on Delivery,Failed,0.0
+948,Net Banking,Paid,149.45
+949,Wallet,Paid,84.42
+950,UPI,Pending,0.0
+951,Net Banking,Paid,173.94
+952,Cash on Delivery,Paid,134.59
+953,Debit Card,Paid,228.67
+954,Wallet,Paid,152.82
+955,Wallet,Paid,26.9
+956,Credit Card,Paid,82.16
+957,UPI,Pending,0.0
+958,Cash on Delivery,Paid,16.09
+959,Credit Card,Paid,240.75
+960,Net Banking,Paid,113.21
+961,Credit Card,Paid,30.26
+962,Wallet,Paid,73.43
+963,Credit Card,Paid,76.41
+964,Wallet,Paid,42.68
+965,Debit Card,Paid,23.51
+966,Wallet,Paid,57.38
+967,Net Banking,Paid,168.43
+968,Wallet,Paid,58.67
+969,UPI,Paid,23.54
+970,Wallet,Paid,197.73
+971,Credit Card,Paid,74.13
+972,Debit Card,Failed,0.0
+973,Credit Card,Failed,0.0
+974,Wallet,Paid,7.7
+975,Credit Card,Paid,202.13
+976,UPI,Paid,174.43
+977,Net Banking,Paid,87.76
+978,UPI,Pending,0.0
+979,Wallet,Paid,128.69
+980,Debit Card,Paid,104.13
+981,Cash on Delivery,Paid,200.68
+982,Debit Card,Paid,123.75
+983,Cash on Delivery,Paid,155.01
+984,Credit Card,Paid,116.86
+985,Wallet,Paid,33.56
+986,UPI,Paid,171.09
+987,Cash on Delivery,Paid,227.32
+988,UPI,Paid,166.85
+989,UPI,Paid,6.79
+990,Net Banking,Paid,79.88
+991,Wallet,Paid,144.48
+992,UPI,Failed,0.0
+993,Credit Card,Paid,60.47
+994,Net Banking,Paid,108.2
+995,Wallet,Failed,0.0
+996,Net Banking,Pending,0.0
+997,Credit Card,Paid,142.46
+998,Cash on Delivery,Paid,95.93
+999,UPI,Paid,208.69
+1000,Cash on Delivery,Paid,195.61
+1001,Wallet,Paid,4.06
+1002,Credit Card,Paid,195.86
+1003,Debit Card,Paid,163.43
+1004,Debit Card,Paid,0.55
+1005,Net Banking,Failed,0.0
+1006,Cash on Delivery,Paid,186.17
+1007,Credit Card,Paid,50.39
+1008,Cash on Delivery,Paid,134.7
+1009,Credit Card,Paid,64.34
+1010,UPI,Paid,234.77
+1011,Net Banking,Paid,109.04
+1012,Wallet,Paid,9.32
+1013,Debit Card,Paid,202.98
+1014,Credit Card,Paid,181.86
+1015,Cash on Delivery,Paid,236.18
+1016,Debit Card,Paid,5.21
+1017,Debit Card,Paid,205.3
+1018,Debit Card,Paid,40.77
+1019,Cash on Delivery,Paid,158.4
+1020,Cash on Delivery,Pending,0.0
+1021,Cash on Delivery,Failed,0.0
+1022,Net Banking,Paid,210.88
+1023,Credit Card,Paid,142.33
+1024,Cash on Delivery,Paid,218.41
+1025,Debit Card,Paid,52.38
+1026,Net Banking,Paid,101.21
+1027,Net Banking,Paid,31.15
+1028,Credit Card,Paid,1.13
+1029,Cash on Delivery,Paid,85.06
+1030,Cash on Delivery,Paid,237.38
+1031,Debit Card,Paid,246.49
+1032,Cash on Delivery,Paid,161.26
+1033,Cash on Delivery,Paid,240.72
+1034,Net Banking,Failed,0.0
+1035,Cash on Delivery,Paid,152.82
+1036,UPI,Paid,102.15
+1037,Wallet,Paid,213.34
+1038,Net Banking,Paid,146.06
+1039,Debit Card,Paid,155.31
+1040,UPI,Pending,0.0
+1041,Credit Card,Paid,199.61
+1042,Wallet,Paid,233.09
+1043,Debit Card,Paid,98.05
+1044,Net Banking,Paid,108.03
+1045,Wallet,Paid,84.68
+1046,Cash on Delivery,Paid,105.59
+1047,UPI,Paid,96.09
+1048,Debit Card,Paid,140.74
+1049,Credit Card,Paid,51.1
+1050,Debit Card,Paid,152.67
+1051,Net Banking,Paid,143.87
+1052,Debit Card,Paid,81.05
+1053,Wallet,Pending,0.0
+1054,Net Banking,Paid,102.13
+1055,Credit Card,Paid,121.12
+1056,Credit Card,Paid,206.21
+1057,Debit Card,Paid,225.31
+1058,Net Banking,Paid,18.03
+1059,Cash on Delivery,Paid,146.96
+1060,Net Banking,Pending,0.0
+1061,UPI,Paid,211.12
+1062,Wallet,Paid,214.82
+1063,Wallet,Paid,249.75
+1064,Credit Card,Paid,188.89
+1065,Debit Card,Paid,128.54
+1066,Wallet,Paid,102.82
+1067,Cash on Delivery,Paid,161.71
+1068,Wallet,Paid,101.8
+1069,UPI,Paid,167.79
+1070,Cash on Delivery,Paid,87.7
+1071,UPI,Paid,5.43
+1072,Credit Card,Paid,109.82
+1073,Cash on Delivery,Paid,83.37
+1074,Cash on Delivery,Failed,0.0
+1075,UPI,Paid,189.77
+1076,Cash on Delivery,Paid,214.91
+1077,Credit Card,Failed,0.0
+1078,Wallet,Pending,0.0
+1079,Debit Card,Paid,131.05
+1080,UPI,Paid,222.88
+1081,Net Banking,Paid,36.67
+1082,Wallet,Pending,0.0
+1083,Debit Card,Paid,76.01
+1084,Wallet,Paid,148.78
+1085,Cash on Delivery,Paid,94.38
+1086,Credit Card,Paid,58.16
+1087,Wallet,Paid,240.75
+1088,Debit Card,Paid,109.94
+1089,Net Banking,Paid,178.52
+1090,UPI,Paid,112.12
+1091,UPI,Paid,221.48
+1092,Debit Card,Paid,115.25
+1093,Credit Card,Pending,0.0
+1094,Credit Card,Paid,97.03
+1095,Net Banking,Pending,0.0
+1096,Wallet,Paid,10.29
+1097,Cash on Delivery,Paid,228.71
+1098,Net Banking,Paid,66.24
+1099,Debit Card,Paid,153.32
+1100,Wallet,Paid,59.86
+1101,Debit Card,Failed,0.0
+1102,Wallet,Paid,83.57
+1103,Cash on Delivery,Failed,0.0
+1104,Credit Card,Paid,111.53
+1105,Debit Card,Paid,219.54
+1106,Credit Card,Paid,119.05
+1107,Cash on Delivery,Paid,118.83
+1108,Credit Card,Paid,5.63
+1109,Net Banking,Paid,116.81
+1110,Cash on Delivery,Paid,111.29
+1111,UPI,Paid,19.01
+1112,Net Banking,Failed,0.0
+1113,Wallet,Paid,194.24
+1114,Cash on Delivery,Paid,14.55
+1115,Wallet,Paid,11.63
+1116,Wallet,Paid,8.37
+1117,Net Banking,Paid,89.27
+1118,Credit Card,Paid,186.22
+1119,Debit Card,Paid,61.04
+1120,Debit Card,Failed,0.0
+1121,Net Banking,Paid,91.36
+1122,Credit Card,Paid,228.45
+1123,Credit Card,Paid,235.37
+1124,UPI,Paid,157.82
+1125,Wallet,Pending,0.0
+1126,UPI,Paid,65.06
+1127,Cash on Delivery,Paid,184.22
+1128,Wallet,Paid,61.38
+1129,Wallet,Paid,90.42
+1130,UPI,Paid,150.0
+1131,Cash on Delivery,Paid,141.92
+1132,Debit Card,Paid,248.4
+1133,UPI,Paid,170.71
+1134,Credit Card,Paid,187.22
+1135,Debit Card,Paid,100.45
+1136,Wallet,Paid,76.6
+1137,UPI,Paid,127.68
+1138,Net Banking,Paid,127.78
+1139,Debit Card,Paid,180.14
+1140,Net Banking,Paid,99.97
+1141,Net Banking,Paid,136.89
+1142,Cash on Delivery,Paid,3.96
+1143,Credit Card,Paid,92.22
+1144,Cash on Delivery,Paid,146.54
+1145,Wallet,Paid,154.71
+1146,Credit Card,Paid,175.35
+1147,UPI,Paid,182.5
+1148,Credit Card,Paid,124.09
+1149,UPI,Pending,0.0
+1150,Net Banking,Paid,170.1
+1151,Cash on Delivery,Failed,0.0
+1152,Credit Card,Paid,228.66
+1153,UPI,Paid,88.64
+1154,UPI,Paid,132.98
+1155,Debit Card,Paid,121.14
+1156,Credit Card,Paid,53.3
+1157,UPI,Paid,63.33
+1158,Wallet,Failed,0.0
+1159,Debit Card,Paid,41.91
+1160,Debit Card,Paid,206.9
+1161,Debit Card,Paid,151.43
+1162,UPI,Paid,232.51
+1163,Wallet,Paid,41.62
+1164,Cash on Delivery,Paid,120.21
+1165,Debit Card,Paid,248.03
+1166,Wallet,Paid,170.49
+1167,Net Banking,Paid,103.4
+1168,Net Banking,Pending,0.0
+1169,Net Banking,Failed,0.0
+1170,Credit Card,Paid,22.54
+1171,Debit Card,Paid,19.09
+1172,UPI,Paid,35.34
+1173,Credit Card,Paid,66.88
+1174,Net Banking,Pending,0.0
+1175,Cash on Delivery,Paid,203.68
+1176,Cash on Delivery,Paid,233.92
+1177,Debit Card,Paid,159.42
+1178,Net Banking,Paid,137.59
+1179,Cash on Delivery,Paid,201.68
+1180,Cash on Delivery,Paid,130.63
+1181,Wallet,Paid,198.41
+1182,Credit Card,Paid,242.78
+1183,Net Banking,Paid,82.57
+1184,UPI,Paid,94.2
+1185,Debit Card,Failed,0.0
+1186,Credit Card,Paid,53.78
+1187,UPI,Paid,146.9
+1188,Cash on Delivery,Paid,22.92
+1189,UPI,Pending,0.0
+1190,Wallet,Failed,0.0
+1191,UPI,Failed,0.0
+1192,Cash on Delivery,Failed,0.0
+1193,Debit Card,Paid,216.54
+1194,Credit Card,Paid,175.89
+1195,Credit Card,Failed,0.0
+1196,Credit Card,Paid,25.7
+1197,Debit Card,Paid,143.56
+1198,Credit Card,Paid,244.52
+1199,Cash on Delivery,Paid,183.88
+1200,UPI,Paid,128.75
+1201,Credit Card,Paid,73.8
+1202,Debit Card,Failed,0.0
+1203,UPI,Paid,49.16
+1204,Wallet,Paid,89.09
+1205,UPI,Paid,238.07
+1206,UPI,Paid,47.45
+1207,Debit Card,Paid,2.57
+1208,UPI,Paid,167.93
+1209,UPI,Paid,154.16
+1210,Net Banking,Pending,0.0
+1211,Cash on Delivery,Paid,75.77
+1212,Debit Card,Paid,114.15
+1213,Wallet,Paid,108.04
+1214,Debit Card,Paid,81.38
+1215,UPI,Pending,0.0
+1216,Wallet,Paid,243.44
+1217,UPI,Paid,35.34
+1218,Cash on Delivery,Pending,0.0
+1219,Credit Card,Paid,13.77
+1220,UPI,Paid,233.73
+1221,UPI,Pending,0.0
+1222,UPI,Paid,229.43
+1223,Wallet,Paid,95.13
+1224,UPI,Paid,14.72
+1225,Wallet,Paid,181.68
+1226,Credit Card,Paid,166.04
+1227,Wallet,Paid,30.87
+1228,Net Banking,Paid,206.06
+1229,Credit Card,Pending,0.0
+1230,Wallet,Paid,202.64
+1231,Wallet,Paid,100.53
+1232,Net Banking,Paid,208.91
+1233,Net Banking,Paid,238.65
+1234,Credit Card,Paid,157.86
+1235,Wallet,Paid,21.59
+1236,Debit Card,Paid,142.18
+1237,Wallet,Paid,158.34
+1238,Wallet,Pending,0.0
+1239,Credit Card,Paid,190.02
+1240,Net Banking,Paid,12.29
+1241,Credit Card,Paid,7.63
+1242,Wallet,Failed,0.0
+1243,Debit Card,Paid,139.71
+1244,Wallet,Paid,32.2
+1245,Cash on Delivery,Paid,115.77
+1246,Cash on Delivery,Paid,87.41
+1247,Credit Card,Paid,225.24
+1248,Debit Card,Paid,169.22
+1249,Wallet,Paid,5.77
+1250,Wallet,Pending,0.0
+1251,Net Banking,Pending,0.0
+1252,Net Banking,Paid,10.98
+1253,Credit Card,Paid,197.82
+1254,Debit Card,Paid,3.2
+1255,Debit Card,Paid,221.6
+1256,Net Banking,Paid,173.15
+1257,Debit Card,Paid,10.41
+1258,Debit Card,Paid,217.66
+1259,Wallet,Failed,0.0
+1260,Wallet,Paid,146.11
+1261,Net Banking,Paid,240.73
+1262,UPI,Paid,23.44
+1263,Wallet,Paid,210.25
+1264,Credit Card,Paid,55.14
+1265,Cash on Delivery,Paid,127.16
+1266,Wallet,Paid,220.02
+1267,Wallet,Paid,245.63
+1268,Cash on Delivery,Failed,0.0
+1269,UPI,Paid,51.5
+1270,UPI,Paid,104.17
+1271,Credit Card,Failed,0.0
+1272,Credit Card,Pending,0.0
+1273,UPI,Paid,221.18
+1274,Wallet,Failed,0.0
+1275,Cash on Delivery,Paid,95.55
+1276,Net Banking,Pending,0.0
+1277,Debit Card,Paid,166.35
+1278,UPI,Paid,188.42
+1279,Credit Card,Paid,127.23
+1280,UPI,Paid,189.98
+1281,Cash on Delivery,Paid,146.72
+1282,Debit Card,Failed,0.0
+1283,Cash on Delivery,Paid,42.12
+1284,Debit Card,Paid,77.01
+1285,UPI,Paid,64.9
+1286,Wallet,Paid,11.94
+1287,Debit Card,Paid,110.12
+1288,Cash on Delivery,Paid,89.6
+1289,Wallet,Paid,102.21
+1290,UPI,Paid,205.02
+1291,Credit Card,Paid,31.52
+1292,Net Banking,Paid,1.96
+1293,Cash on Delivery,Paid,189.78
+1294,Wallet,Paid,132.18
+1295,Debit Card,Paid,95.0
+1296,Cash on Delivery,Paid,222.73
+1297,Wallet,Paid,234.82
+1298,Credit Card,Paid,218.16
+1299,Credit Card,Paid,179.23
+1300,UPI,Pending,0.0
+1301,Credit Card,Paid,61.37
+1302,Net Banking,Paid,224.57
+1303,Net Banking,Paid,133.79
+1304,Net Banking,Paid,121.24
+1305,Net Banking,Paid,125.6
+1306,Net Banking,Paid,69.64
+1307,Credit Card,Paid,119.91
+1308,Debit Card,Paid,143.63
+1309,Net Banking,Paid,83.68
+1310,Debit Card,Paid,159.04
+1311,Net Banking,Paid,80.59
+1312,Wallet,Paid,82.44
+1313,Cash on Delivery,Paid,175.01
+1314,Cash on Delivery,Paid,177.13
+1315,UPI,Failed,0.0
+1316,UPI,Failed,0.0
+1317,Debit Card,Paid,242.68
+1318,Credit Card,Paid,107.14
+1319,UPI,Paid,209.76
+1320,Cash on Delivery,Paid,154.7
+1321,Debit Card,Paid,56.0
+1322,Debit Card,Paid,196.78
+1323,UPI,Failed,0.0
+1324,Wallet,Paid,108.96
+1325,Cash on Delivery,Pending,0.0
+1326,Cash on Delivery,Paid,149.71
+1327,Wallet,Paid,1.98
+1328,Cash on Delivery,Paid,238.85
+1329,Cash on Delivery,Paid,204.54
+1330,UPI,Paid,99.0
+1331,UPI,Paid,21.47
+1332,Cash on Delivery,Paid,118.85
+1333,Credit Card,Paid,230.49
+1334,Cash on Delivery,Paid,70.19
+1335,Wallet,Paid,53.74
+1336,Cash on Delivery,Paid,41.85
+1337,Cash on Delivery,Paid,12.2
+1338,Debit Card,Paid,108.97
+1339,UPI,Paid,201.12
+1340,UPI,Paid,68.65
+1341,Credit Card,Paid,227.5
+1342,UPI,Paid,209.63
+1343,Credit Card,Paid,109.66
+1344,Cash on Delivery,Paid,99.78
+1345,Net Banking,Failed,0.0
+1346,Debit Card,Paid,81.57
+1347,UPI,Paid,86.26
+1348,Net Banking,Paid,10.23
+1349,Net Banking,Pending,0.0
+1350,Wallet,Paid,206.17
+1351,Wallet,Paid,34.45
+1352,Wallet,Paid,83.19
+1353,Wallet,Paid,213.14
+1354,Cash on Delivery,Paid,15.74
+1355,Credit Card,Paid,177.65
+1356,Debit Card,Paid,102.19
+1357,Wallet,Paid,38.39
+1358,Wallet,Paid,10.64
+1359,Debit Card,Failed,0.0
+1360,Wallet,Failed,0.0
+1361,Wallet,Pending,0.0
+1362,Credit Card,Paid,139.27
+1363,Wallet,Paid,124.28
+1364,Debit Card,Paid,137.26
+1365,UPI,Failed,0.0
+1366,Net Banking,Pending,0.0
+1367,Debit Card,Paid,54.39
+1368,Net Banking,Paid,119.42
+1369,Cash on Delivery,Failed,0.0
+1370,Wallet,Paid,98.86
+1371,Net Banking,Failed,0.0
+1372,UPI,Paid,207.8
+1373,UPI,Paid,166.58
+1374,Wallet,Pending,0.0
+1375,UPI,Paid,151.79
+1376,UPI,Failed,0.0
+1377,Debit Card,Paid,92.58
+1378,Wallet,Paid,172.0
+1379,Debit Card,Paid,151.0
+1380,Credit Card,Paid,168.05
+1381,Debit Card,Paid,154.98
+1382,Wallet,Paid,189.99
+1383,Wallet,Paid,84.09
+1384,Debit Card,Paid,109.99
+1385,Net Banking,Paid,195.03
+1386,UPI,Paid,120.35
+1387,Debit Card,Paid,181.32
+1388,Wallet,Paid,52.56
+1389,Credit Card,Paid,246.0
+1390,Net Banking,Paid,164.31
+1391,Net Banking,Paid,200.18
+1392,Credit Card,Paid,181.48
+1393,Debit Card,Paid,191.92
+1394,UPI,Paid,121.72
+1395,Wallet,Pending,0.0
+1396,UPI,Paid,86.44
+1397,Net Banking,Paid,116.66
+1398,Wallet,Failed,0.0
+1399,UPI,Paid,237.44
+1400,Net Banking,Paid,113.71
+1401,Debit Card,Paid,153.64
+1402,Wallet,Paid,17.94
+1403,Debit Card,Pending,0.0
+1404,Net Banking,Paid,33.37
+1405,Debit Card,Paid,117.07
+1406,Net Banking,Paid,63.64
+1407,Debit Card,Paid,162.04
+1408,Net Banking,Paid,77.26
+1409,Debit Card,Paid,218.88
+1410,Debit Card,Failed,0.0
+1411,Cash on Delivery,Paid,166.3
+1412,Credit Card,Paid,134.1
+1413,Debit Card,Failed,0.0
+1414,Wallet,Paid,187.47
+1415,Debit Card,Failed,0.0
+1416,Cash on Delivery,Paid,75.35
+1417,Cash on Delivery,Paid,24.43
+1418,UPI,Paid,38.85
+1419,Cash on Delivery,Pending,0.0
+1420,Debit Card,Paid,157.02
+1421,UPI,Failed,0.0
+1422,Net Banking,Paid,41.91
+1423,Wallet,Paid,163.8
+1424,Debit Card,Failed,0.0
+1425,Debit Card,Paid,4.56
+1426,Net Banking,Paid,201.72
+1427,Net Banking,Failed,0.0
+1428,UPI,Paid,63.62
+1429,Wallet,Failed,0.0
+1430,Wallet,Paid,202.34
+1431,Credit Card,Paid,243.55
+1432,Debit Card,Paid,178.41
+1433,UPI,Paid,129.55
+1434,Debit Card,Paid,93.22
+1435,UPI,Paid,30.67
+1436,Cash on Delivery,Paid,206.16
+1437,UPI,Paid,115.03
+1438,UPI,Paid,164.76
+1439,UPI,Paid,109.58
+1440,Net Banking,Paid,115.0
+1441,Wallet,Failed,0.0
+1442,UPI,Paid,122.22
+1443,Cash on Delivery,Paid,44.52
+1444,Debit Card,Paid,169.98
+1445,Wallet,Paid,39.02
+1446,Wallet,Failed,0.0
+1447,Cash on Delivery,Paid,202.61
+1448,Cash on Delivery,Paid,192.66
+1449,Net Banking,Pending,0.0
+1450,Wallet,Paid,62.5
+1451,Net Banking,Failed,0.0
+1452,Credit Card,Paid,92.0
+1453,Debit Card,Paid,175.81
+1454,UPI,Paid,122.26
+1455,Credit Card,Paid,133.49
+1456,UPI,Paid,241.76
+1457,Debit Card,Paid,205.07
+1458,Cash on Delivery,Paid,1.83
+1459,UPI,Paid,150.9
+1460,Debit Card,Pending,0.0
+1461,Wallet,Paid,77.44
+1462,Net Banking,Paid,101.3
+1463,Credit Card,Paid,78.41
+1464,Wallet,Paid,141.94
+1465,UPI,Paid,237.67
+1466,UPI,Paid,49.0
+1467,Wallet,Paid,2.75
+1468,Net Banking,Paid,168.39
+1469,Debit Card,Paid,193.54
+1470,Net Banking,Failed,0.0
+1471,Cash on Delivery,Paid,203.44
+1472,UPI,Paid,128.42
+1473,Debit Card,Failed,0.0
+1474,Wallet,Paid,103.77
+1475,Net Banking,Pending,0.0
+1476,Debit Card,Paid,176.89
+1477,UPI,Failed,0.0
+1478,Cash on Delivery,Paid,216.0
+1479,Net Banking,Paid,234.74
+1480,Credit Card,Paid,168.05
+1481,Credit Card,Pending,0.0
+1482,Wallet,Paid,164.42
+1483,Credit Card,Paid,201.28
+1484,UPI,Paid,146.4
+1485,Cash on Delivery,Paid,141.9
+1486,Debit Card,Failed,0.0
+1487,Cash on Delivery,Failed,0.0
+1488,Net Banking,Paid,244.19
+1489,Net Banking,Paid,240.94
+1490,Debit Card,Paid,94.39
+1491,Credit Card,Paid,45.22
+1492,Debit Card,Paid,70.04
+1493,UPI,Pending,0.0
+1494,Wallet,Paid,133.08
+1495,Wallet,Paid,85.65
+1496,Credit Card,Failed,0.0
+1497,Net Banking,Failed,0.0
+1498,Credit Card,Pending,0.0
+1499,UPI,Paid,171.79
+1500,Credit Card,Paid,138.15
+1501,Cash on Delivery,Paid,25.07
+1502,Net Banking,Paid,209.38
+1503,Cash on Delivery,Paid,75.23
+1504,Debit Card,Paid,215.49
+1505,Debit Card,Pending,0.0
+1506,Credit Card,Paid,41.45
+1507,Debit Card,Pending,0.0
+1508,Credit Card,Paid,49.58
+1509,UPI,Paid,224.85
+1510,Net Banking,Paid,42.25
+1511,Net Banking,Paid,2.85
+1512,Net Banking,Paid,219.61
+1513,Debit Card,Paid,117.18
+1514,Wallet,Paid,143.25
+1515,Wallet,Failed,0.0
+1516,Net Banking,Paid,27.1
+1517,Net Banking,Paid,94.3
+1518,Debit Card,Paid,0.65
+1519,Net Banking,Paid,172.26
+1520,Net Banking,Paid,46.39
+1521,Credit Card,Paid,10.45
+1522,Cash on Delivery,Paid,98.69
+1523,Debit Card,Paid,25.74
+1524,Cash on Delivery,Paid,55.59
+1525,Wallet,Paid,40.46
+1526,Debit Card,Failed,0.0
+1527,Net Banking,Paid,64.18
+1528,Debit Card,Paid,27.3
+1529,Net Banking,Paid,9.25
+1530,Wallet,Paid,188.18
+1531,UPI,Paid,96.73
+1532,Cash on Delivery,Pending,0.0
+1533,UPI,Failed,0.0
+1534,Wallet,Failed,0.0
+1535,Net Banking,Paid,161.29
+1536,Credit Card,Paid,84.07
+1537,UPI,Paid,176.29
+1538,Wallet,Paid,13.27
+1539,Wallet,Paid,215.84
+1540,UPI,Paid,46.96
+1541,Credit Card,Failed,0.0
+1542,Net Banking,Paid,238.62
+1543,Credit Card,Paid,29.47
+1544,Credit Card,Paid,16.75
+1545,Net Banking,Paid,182.16
+1546,Debit Card,Paid,238.15
+1547,Net Banking,Failed,0.0
+1548,Credit Card,Paid,43.56
+1549,Wallet,Paid,232.31
+1550,Wallet,Paid,127.51
+1551,Debit Card,Paid,128.6
+1552,Cash on Delivery,Paid,57.98
+1553,Debit Card,Paid,136.31
+1554,Debit Card,Paid,48.03
+1555,Wallet,Paid,20.67
+1556,Net Banking,Paid,59.83
+1557,UPI,Paid,120.0
+1558,Debit Card,Paid,94.35
+1559,Wallet,Paid,176.5
+1560,Credit Card,Paid,183.6
+1561,UPI,Paid,37.64
+1562,Credit Card,Paid,21.7
+1563,Cash on Delivery,Paid,237.88
+1564,Net Banking,Paid,141.57
+1565,Credit Card,Paid,84.72
+1566,Cash on Delivery,Paid,113.45
+1567,Net Banking,Paid,20.36
+1568,UPI,Paid,48.06
+1569,Cash on Delivery,Paid,112.98
+1570,Cash on Delivery,Paid,75.87
+1571,Credit Card,Failed,0.0
+1572,Wallet,Paid,95.5
+1573,Net Banking,Paid,63.34
+1574,Wallet,Paid,157.8
+1575,Credit Card,Paid,59.77
+1576,Debit Card,Paid,28.83
+1577,Net Banking,Paid,114.38
+1578,Net Banking,Paid,214.43
+1579,Debit Card,Paid,56.11
+1580,Wallet,Paid,210.7
+1581,Wallet,Pending,0.0
+1582,Wallet,Paid,167.07
+1583,UPI,Paid,159.76
+1584,Net Banking,Failed,0.0
+1585,UPI,Paid,56.91
+1586,Cash on Delivery,Paid,197.81
+1587,Wallet,Paid,181.32
+1588,Net Banking,Paid,224.03
+1589,Debit Card,Paid,29.08
+1590,Cash on Delivery,Paid,70.23
+1591,UPI,Paid,146.66
+1592,Net Banking,Paid,181.34
+1593,UPI,Paid,135.35
+1594,Net Banking,Failed,0.0
+1595,Debit Card,Paid,211.28
+1596,UPI,Paid,113.75
+1597,Cash on Delivery,Paid,222.75
+1598,Cash on Delivery,Paid,179.53
+1599,Net Banking,Paid,103.39
+1600,UPI,Paid,12.81
+1601,Cash on Delivery,Pending,0.0
+1602,Debit Card,Paid,220.28
+1603,Wallet,Paid,185.79
+1604,Net Banking,Paid,37.46
+1605,Net Banking,Paid,37.93
+1606,Cash on Delivery,Paid,52.52
+1607,Debit Card,Paid,235.82
+1608,Credit Card,Paid,144.99
+1609,Debit Card,Paid,239.16
+1610,Debit Card,Paid,185.41
+1611,Net Banking,Paid,94.74
+1612,Cash on Delivery,Paid,45.5
+1613,Wallet,Paid,179.46
+1614,Credit Card,Paid,129.85
+1615,Cash on Delivery,Pending,0.0
+1616,Cash on Delivery,Paid,191.88
+1617,Net Banking,Paid,222.59
+1618,Debit Card,Paid,117.1
+1619,Credit Card,Paid,142.38
+1620,Net Banking,Failed,0.0
+1621,Credit Card,Paid,124.25
+1622,Wallet,Paid,201.97
+1623,UPI,Pending,0.0
+1624,UPI,Paid,13.79
+1625,Credit Card,Paid,247.09
+1626,Cash on Delivery,Paid,149.27
+1627,Wallet,Paid,198.24
+1628,Wallet,Paid,229.07
+1629,Debit Card,Failed,0.0
+1630,Credit Card,Paid,48.15
+1631,Credit Card,Pending,0.0
+1632,Credit Card,Paid,53.92
+1633,Credit Card,Paid,63.06
+1634,Net Banking,Failed,0.0
+1635,Net Banking,Paid,203.6
+1636,Net Banking,Pending,0.0
+1637,Debit Card,Paid,176.93
+1638,UPI,Paid,99.71
+1639,Credit Card,Paid,47.68
+1640,Net Banking,Paid,80.78
+1641,Debit Card,Paid,22.59
+1642,Credit Card,Paid,120.6
+1643,UPI,Paid,196.37
+1644,Debit Card,Paid,63.45
+1645,Cash on Delivery,Pending,0.0
+1646,Cash on Delivery,Paid,119.72
+1647,Debit Card,Failed,0.0
+1648,UPI,Paid,240.46
+1649,Cash on Delivery,Paid,195.83
+1650,Debit Card,Paid,87.52
+1651,Credit Card,Paid,132.35
+1652,Credit Card,Paid,243.61
+1653,Debit Card,Paid,242.66
+1654,UPI,Paid,119.92
+1655,Net Banking,Paid,137.66
+1656,Net Banking,Paid,136.09
+1657,Credit Card,Paid,10.51
+1658,Credit Card,Paid,42.2
+1659,UPI,Paid,229.26
+1660,UPI,Paid,155.36
+1661,Debit Card,Paid,140.05
+1662,Credit Card,Failed,0.0
+1663,Cash on Delivery,Pending,0.0
+1664,Cash on Delivery,Paid,202.78
+1665,Net Banking,Paid,39.87
+1666,Net Banking,Pending,0.0
+1667,Wallet,Paid,19.07
+1668,Debit Card,Paid,141.85
+1669,Credit Card,Paid,144.07
+1670,Wallet,Paid,144.36
+1671,UPI,Paid,106.78
+1672,Credit Card,Paid,135.48
+1673,Net Banking,Paid,1.12
+1674,Wallet,Paid,10.33
+1675,Debit Card,Paid,84.62
+1676,UPI,Paid,36.78
+1677,Wallet,Paid,164.02
+1678,Wallet,Paid,221.86
+1679,Debit Card,Paid,236.78
+1680,Debit Card,Paid,132.46
+1681,Wallet,Paid,216.22
+1682,Debit Card,Paid,101.45
+1683,Net Banking,Paid,79.88
+1684,UPI,Paid,88.88
+1685,Net Banking,Failed,0.0
+1686,Cash on Delivery,Paid,111.83
+1687,UPI,Paid,57.45
+1688,UPI,Paid,120.32
+1689,Debit Card,Pending,0.0
+1690,Cash on Delivery,Paid,233.0
+1691,Credit Card,Paid,3.35
+1692,Cash on Delivery,Failed,0.0
+1693,Net Banking,Failed,0.0
+1694,Credit Card,Paid,172.2
+1695,Cash on Delivery,Paid,176.8
+1696,UPI,Paid,198.91
+1697,Debit Card,Paid,111.36
+1698,Credit Card,Paid,33.65
+1699,Debit Card,Paid,185.38
+1700,Cash on Delivery,Paid,175.92
+1701,Net Banking,Paid,1.74
+1702,Wallet,Paid,26.71
+1703,Net Banking,Failed,0.0
+1704,Net Banking,Paid,167.33
+1705,Credit Card,Paid,87.6
+1706,UPI,Paid,29.79
+1707,Cash on Delivery,Paid,180.96
+1708,Credit Card,Paid,56.71
+1709,Cash on Delivery,Paid,112.49
+1710,UPI,Failed,0.0
+1711,Cash on Delivery,Paid,161.86
+1712,Net Banking,Paid,146.37
+1713,Cash on Delivery,Paid,227.37
+1714,Wallet,Paid,227.14
+1715,UPI,Pending,0.0
+1716,Credit Card,Paid,200.52
+1717,Wallet,Failed,0.0
+1718,Debit Card,Paid,150.39
+1719,Net Banking,Failed,0.0
+1720,Net Banking,Paid,75.68
+1721,Debit Card,Paid,228.69
+1722,Debit Card,Failed,0.0
+1723,Net Banking,Paid,206.68
+1724,Credit Card,Paid,96.37
+1725,Debit Card,Failed,0.0
+1726,Cash on Delivery,Paid,231.42
+1727,UPI,Paid,44.45
+1728,Net Banking,Paid,181.9
+1729,Wallet,Paid,108.56
+1730,Net Banking,Paid,42.96
+1731,Debit Card,Paid,47.82
+1732,Wallet,Paid,220.84
+1733,Cash on Delivery,Paid,224.18
+1734,Credit Card,Paid,150.9
+1735,Debit Card,Paid,119.14
+1736,Net Banking,Paid,188.17
+1737,Credit Card,Paid,223.58
+1738,Wallet,Failed,0.0
+1739,Wallet,Failed,0.0
+1740,Credit Card,Paid,153.35
+1741,Credit Card,Paid,67.55
+1742,UPI,Paid,160.18
+1743,Net Banking,Paid,145.3
+1744,UPI,Paid,156.62
+1745,Cash on Delivery,Paid,71.77
+1746,Net Banking,Paid,174.75
+1747,Net Banking,Paid,103.8
+1748,Credit Card,Paid,101.38
+1749,Wallet,Paid,208.32
+1750,Debit Card,Paid,148.47
+1751,Credit Card,Pending,0.0
+1752,Cash on Delivery,Paid,57.73
+1753,Cash on Delivery,Failed,0.0
+1754,Wallet,Paid,239.37
+1755,Wallet,Pending,0.0
+1756,UPI,Failed,0.0
+1757,Credit Card,Paid,116.69
+1758,Wallet,Paid,28.41
+1759,Credit Card,Paid,99.0
+1760,Debit Card,Pending,0.0
+1761,Debit Card,Paid,105.28
+1762,UPI,Failed,0.0
+1763,Wallet,Paid,16.44
+1764,Cash on Delivery,Paid,199.3
+1765,Debit Card,Paid,152.7
+1766,Wallet,Failed,0.0
+1767,Debit Card,Failed,0.0
+1768,Debit Card,Paid,40.9
+1769,Wallet,Paid,60.59
+1770,Wallet,Paid,190.49
+1771,Wallet,Paid,103.86
+1772,Net Banking,Paid,199.31
+1773,Debit Card,Paid,62.3
+1774,Credit Card,Paid,41.54
+1775,Credit Card,Paid,185.44
+1776,Credit Card,Paid,100.67
+1777,Wallet,Paid,50.7
+1778,UPI,Paid,143.66
+1779,Wallet,Paid,13.9
+1780,Net Banking,Paid,101.64
+1781,Wallet,Failed,0.0
+1782,Credit Card,Paid,112.9
+1783,Wallet,Paid,176.42
+1784,Wallet,Paid,234.59
+1785,Debit Card,Paid,44.01
+1786,Net Banking,Paid,154.81
+1787,Wallet,Paid,176.33
+1788,Net Banking,Paid,110.72
+1789,Debit Card,Paid,236.52
+1790,Credit Card,Paid,76.44
+1791,Cash on Delivery,Paid,100.06
+1792,Debit Card,Paid,213.42
+1793,Wallet,Paid,147.49
+1794,Wallet,Paid,86.69
+1795,Cash on Delivery,Paid,173.48
+1796,Credit Card,Paid,62.03
+1797,Cash on Delivery,Paid,24.65
+1798,Credit Card,Failed,0.0
+1799,Net Banking,Paid,58.11
+1800,Wallet,Paid,224.54
+1801,Wallet,Failed,0.0
+1802,Credit Card,Paid,246.44
+1803,UPI,Paid,211.28
+1804,Net Banking,Paid,233.35
+1805,Cash on Delivery,Paid,134.68
+1806,Net Banking,Paid,39.32
+1807,Debit Card,Paid,11.21
+1808,Net Banking,Pending,0.0
+1809,Credit Card,Paid,205.37
+1810,UPI,Paid,121.87
+1811,Debit Card,Paid,81.07
+1812,UPI,Paid,200.99
+1813,Debit Card,Failed,0.0
+1814,Wallet,Paid,13.08
+1815,Wallet,Paid,204.45
+1816,Debit Card,Paid,98.32
+1817,Cash on Delivery,Paid,155.16
+1818,Debit Card,Paid,213.96
+1819,Credit Card,Paid,127.67
+1820,Net Banking,Paid,192.67
+1821,UPI,Paid,211.12
+1822,Wallet,Paid,243.43
+1823,UPI,Paid,87.32
+1824,Wallet,Paid,172.15
+1825,Debit Card,Paid,232.9
+1826,Cash on Delivery,Failed,0.0
+1827,Net Banking,Paid,27.52
+1828,Debit Card,Paid,89.49
+1829,Net Banking,Pending,0.0
+1830,Credit Card,Paid,43.42
+1831,Wallet,Paid,32.87
+1832,Credit Card,Paid,4.36
+1833,UPI,Paid,186.25
+1834,UPI,Paid,167.84
+1835,Wallet,Paid,91.17
+1836,Net Banking,Pending,0.0
+1837,Credit Card,Paid,2.31
+1838,Net Banking,Paid,108.95
+1839,UPI,Paid,72.29
+1840,Cash on Delivery,Paid,140.59
+1841,Debit Card,Paid,166.91
+1842,Net Banking,Paid,115.14
+1843,Credit Card,Paid,171.46
+1844,Net Banking,Paid,5.99
+1845,UPI,Pending,0.0
+1846,Cash on Delivery,Paid,9.49
+1847,Debit Card,Paid,191.32
+1848,Net Banking,Failed,0.0
+1849,UPI,Paid,183.17
+1850,Net Banking,Paid,207.76
+1851,Cash on Delivery,Paid,24.54
+1852,UPI,Paid,70.26
+1853,Net Banking,Failed,0.0
+1854,Net Banking,Paid,234.57
+1855,UPI,Paid,101.91
+1856,Wallet,Paid,133.91
+1857,Cash on Delivery,Paid,204.33
+1858,Net Banking,Paid,232.74
+1859,Debit Card,Paid,156.93
+1860,Net Banking,Paid,83.52
+1861,Net Banking,Failed,0.0
+1862,Cash on Delivery,Paid,189.67
+1863,Credit Card,Paid,131.0
+1864,Credit Card,Paid,178.63
+1865,UPI,Paid,181.0
+1866,UPI,Failed,0.0
+1867,Debit Card,Paid,111.86
+1868,Net Banking,Paid,52.69
+1869,UPI,Paid,116.53
+1870,Wallet,Paid,177.98
+1871,Cash on Delivery,Paid,55.49
+1872,Cash on Delivery,Paid,110.86
+1873,Cash on Delivery,Pending,0.0
+1874,Cash on Delivery,Paid,92.81
+1875,Debit Card,Paid,244.24
+1876,Cash on Delivery,Failed,0.0
+1877,Net Banking,Paid,115.36
+1878,Net Banking,Paid,120.2
+1879,Net Banking,Paid,94.73
+1880,Cash on Delivery,Failed,0.0
+1881,Net Banking,Paid,93.14
+1882,Debit Card,Paid,190.72
+1883,UPI,Pending,0.0
+1884,Debit Card,Paid,107.78
+1885,Cash on Delivery,Paid,198.9
+1886,Credit Card,Paid,249.23
+1887,UPI,Paid,125.95
+1888,Wallet,Pending,0.0
+1889,Cash on Delivery,Paid,233.0
+1890,UPI,Paid,33.68
+1891,Debit Card,Paid,107.13
+1892,Credit Card,Paid,60.06
+1893,Net Banking,Failed,0.0
+1894,Net Banking,Paid,198.65
+1895,Credit Card,Paid,24.86
+1896,Cash on Delivery,Paid,120.26
+1897,Credit Card,Paid,209.91
+1898,Debit Card,Paid,136.88
+1899,UPI,Paid,213.03
+1900,Wallet,Paid,14.39
+1901,Debit Card,Pending,0.0
+1902,UPI,Paid,164.55
+1903,Debit Card,Failed,0.0
+1904,UPI,Paid,126.82
+1905,UPI,Paid,166.45
+1906,Cash on Delivery,Paid,210.73
+1907,Net Banking,Paid,100.37
+1908,Cash on Delivery,Paid,127.5
+1909,Net Banking,Paid,24.35
+1910,Credit Card,Failed,0.0
+1911,Debit Card,Paid,62.18
+1912,Wallet,Paid,14.86
+1913,UPI,Paid,72.76
+1914,Cash on Delivery,Paid,76.8
+1915,UPI,Pending,0.0
+1916,Wallet,Paid,69.49
+1917,Cash on Delivery,Paid,141.6
+1918,Debit Card,Paid,247.59
+1919,Net Banking,Paid,38.15
+1920,Cash on Delivery,Failed,0.0
+1921,Credit Card,Paid,89.81
+1922,Net Banking,Paid,39.19
+1923,Net Banking,Paid,194.5
+1924,UPI,Paid,1.04
+1925,UPI,Paid,32.41
+1926,Debit Card,Pending,0.0
+1927,Net Banking,Paid,185.89
+1928,Net Banking,Failed,0.0
+1929,UPI,Paid,46.11
+1930,Debit Card,Paid,129.66
+1931,Debit Card,Paid,25.57
+1932,Cash on Delivery,Failed,0.0
+1933,Wallet,Failed,0.0
+1934,Cash on Delivery,Paid,220.64
+1935,UPI,Paid,103.2
+1936,Wallet,Paid,135.57
+1937,Credit Card,Paid,54.38
+1938,Cash on Delivery,Paid,138.33
+1939,Net Banking,Paid,158.72
+1940,Cash on Delivery,Paid,95.4
+1941,UPI,Paid,81.6
+1942,Cash on Delivery,Paid,80.74
+1943,Debit Card,Paid,75.69
+1944,Credit Card,Paid,40.02
+1945,Wallet,Failed,0.0
+1946,Cash on Delivery,Failed,0.0
+1947,Cash on Delivery,Paid,136.05
+1948,Wallet,Paid,17.62
+1949,Credit Card,Paid,115.51
+1950,UPI,Paid,56.59
+1951,UPI,Paid,228.35
+1952,Credit Card,Paid,95.06
+1953,Net Banking,Failed,0.0
+1954,UPI,Paid,230.02
+1955,Cash on Delivery,Paid,190.56
+1956,Net Banking,Paid,1.6
+1957,Debit Card,Paid,113.55
+1958,UPI,Paid,218.34
+1959,Wallet,Paid,31.04
+1960,Cash on Delivery,Paid,201.06
+1961,Wallet,Paid,78.83
+1962,Wallet,Pending,0.0
+1963,Credit Card,Paid,222.1
+1964,Net Banking,Paid,140.05
+1965,Credit Card,Paid,72.37
+1966,Credit Card,Failed,0.0
+1967,Debit Card,Paid,23.31
+1968,Cash on Delivery,Paid,25.91
+1969,Cash on Delivery,Pending,0.0
+1970,Wallet,Failed,0.0
+1971,UPI,Paid,237.19
+1972,UPI,Paid,174.35
+1973,Debit Card,Paid,159.05
+1974,Cash on Delivery,Paid,167.13
+1975,Net Banking,Paid,9.64
+1976,UPI,Paid,143.13
+1977,UPI,Paid,201.67
+1978,Net Banking,Pending,0.0
+1979,Wallet,Paid,204.38
+1980,Credit Card,Paid,17.3
+1981,Debit Card,Paid,202.33
+1982,Net Banking,Paid,67.94
+1983,Credit Card,Paid,114.43
+1984,Net Banking,Paid,149.91
+1985,Net Banking,Paid,181.41
+1986,Credit Card,Paid,214.46
+1987,Debit Card,Pending,0.0
+1988,Debit Card,Failed,0.0
+1989,Cash on Delivery,Paid,153.36
+1990,Net Banking,Failed,0.0
+1991,Credit Card,Paid,61.73
+1992,Credit Card,Paid,98.3
+1993,Cash on Delivery,Failed,0.0
+1994,Credit Card,Paid,203.96
+1995,Debit Card,Paid,17.7
+1996,UPI,Paid,56.04
+1997,Net Banking,Paid,87.65
+1998,Wallet,Pending,0.0
+1999,UPI,Paid,86.92
+2000,Net Banking,Failed,0.0
+2001,Wallet,Paid,209.13
+2002,Cash on Delivery,Paid,150.64
+2003,Debit Card,Paid,101.75
+2004,Debit Card,Paid,56.46
+2005,Debit Card,Paid,5.33
+2006,Debit Card,Paid,237.65
+2007,Cash on Delivery,Paid,75.08
+2008,Wallet,Paid,159.04
+2009,Cash on Delivery,Paid,67.91
+2010,UPI,Paid,116.82
+2011,Wallet,Failed,0.0
+2012,UPI,Paid,6.34
+2013,Net Banking,Paid,199.48
+2014,UPI,Paid,111.13
+2015,Credit Card,Pending,0.0
+2016,Wallet,Failed,0.0
+2017,Cash on Delivery,Paid,226.86
+2018,Credit Card,Paid,203.97
+2019,Net Banking,Pending,0.0
+2020,UPI,Paid,232.89
+2021,UPI,Paid,143.43
+2022,UPI,Paid,248.18
+2023,UPI,Paid,42.56
+2024,Debit Card,Paid,73.43
+2025,Debit Card,Pending,0.0
+2026,Cash on Delivery,Paid,105.72
+2027,Credit Card,Paid,58.32
+2028,Debit Card,Paid,165.9
+2029,Wallet,Paid,231.4
+2030,Credit Card,Paid,57.2
+2031,Net Banking,Failed,0.0
+2032,UPI,Paid,204.64
+2033,Debit Card,Paid,60.95
+2034,UPI,Paid,77.78
+2035,Cash on Delivery,Paid,145.9
+2036,Net Banking,Paid,244.99
+2037,Net Banking,Paid,179.41
+2038,Cash on Delivery,Pending,0.0
+2039,Net Banking,Paid,58.84
+2040,Credit Card,Failed,0.0
+2041,Debit Card,Failed,0.0
+2042,Wallet,Paid,228.26
+2043,Net Banking,Paid,179.41
+2044,Credit Card,Paid,198.19
+2045,Debit Card,Paid,211.45
+2046,Debit Card,Paid,242.44
+2047,Cash on Delivery,Paid,38.36
+2048,Net Banking,Paid,138.35
+2049,Wallet,Failed,0.0
+2050,Wallet,Paid,19.56
+2051,Credit Card,Pending,0.0
+2052,Credit Card,Paid,197.76
+2053,Net Banking,Pending,0.0
+2054,Net Banking,Pending,0.0
+2055,UPI,Paid,107.61
+2056,Debit Card,Failed,0.0
+2057,Wallet,Paid,25.32
+2058,Debit Card,Paid,115.63
+2059,Wallet,Paid,30.36
+2060,UPI,Paid,98.3
+2061,Cash on Delivery,Paid,153.09
+2062,Debit Card,Pending,0.0
+2063,Net Banking,Paid,75.56
+2064,Cash on Delivery,Paid,133.78
+2065,UPI,Paid,25.41
+2066,Wallet,Paid,161.47
+2067,UPI,Paid,211.74
+2068,Wallet,Paid,59.33
+2069,Net Banking,Paid,173.9
+2070,Wallet,Failed,0.0
+2071,Net Banking,Paid,99.38
+2072,Credit Card,Paid,90.53
+2073,Wallet,Paid,13.69
+2074,Credit Card,Paid,97.36
+2075,UPI,Paid,166.7
+2076,UPI,Failed,0.0
+2077,Wallet,Paid,13.85
+2078,Net Banking,Paid,18.45
+2079,Cash on Delivery,Paid,114.92
+2080,Debit Card,Paid,241.99
+2081,Wallet,Failed,0.0
+2082,Cash on Delivery,Paid,20.48
+2083,Credit Card,Pending,0.0
+2084,Wallet,Paid,184.97
+2085,Wallet,Paid,190.95
+2086,Debit Card,Paid,166.5
+2087,Cash on Delivery,Paid,156.12
+2088,Wallet,Paid,237.53
+2089,Cash on Delivery,Pending,0.0
+2090,Net Banking,Paid,31.96
+2091,Credit Card,Paid,18.39
+2092,Debit Card,Paid,132.31
+2093,Net Banking,Paid,237.17
+2094,Net Banking,Paid,214.02
+2095,Debit Card,Pending,0.0
+2096,UPI,Paid,151.48
+2097,UPI,Paid,193.03
+2098,Credit Card,Paid,219.7
+2099,Credit Card,Paid,187.66
+2100,Net Banking,Paid,205.49
+2101,UPI,Failed,0.0
+2102,UPI,Paid,159.52
+2103,Wallet,Paid,55.84
+2104,Credit Card,Paid,103.36
+2105,Wallet,Paid,156.95
+2106,Net Banking,Paid,126.69
+2107,Wallet,Paid,152.37
+2108,Net Banking,Paid,108.64
+2109,Credit Card,Paid,36.84
+2110,Wallet,Paid,16.93
+2111,Credit Card,Paid,164.65
+2112,Credit Card,Failed,0.0
+2113,Cash on Delivery,Paid,37.3
+2114,Net Banking,Pending,0.0
+2115,UPI,Paid,43.7
+2116,Credit Card,Pending,0.0
+2117,Net Banking,Failed,0.0
+2118,Cash on Delivery,Paid,211.43
+2119,Credit Card,Paid,234.07
+2120,Cash on Delivery,Paid,103.62
+2121,Debit Card,Failed,0.0
+2122,Wallet,Paid,130.06
+2123,Credit Card,Paid,200.36
+2124,Net Banking,Paid,191.69
+2125,Wallet,Failed,0.0
+2126,Cash on Delivery,Failed,0.0
+2127,Net Banking,Failed,0.0
+2128,UPI,Paid,18.6
+2129,Credit Card,Paid,55.2
+2130,UPI,Paid,151.25
+2131,Debit Card,Paid,140.48
+2132,Debit Card,Paid,79.32
+2133,Wallet,Paid,164.98
+2134,Wallet,Paid,227.46
+2135,Credit Card,Paid,195.0
+2136,Cash on Delivery,Paid,13.03
+2137,Cash on Delivery,Pending,0.0
+2138,Credit Card,Paid,3.95
+2139,Net Banking,Paid,238.43
+2140,UPI,Paid,103.11
+2141,Wallet,Failed,0.0
+2142,Net Banking,Failed,0.0
+2143,Credit Card,Paid,36.44
+2144,Debit Card,Paid,18.12
+2145,Credit Card,Paid,155.62
+2146,Cash on Delivery,Paid,147.36
+2147,Net Banking,Pending,0.0
+2148,Wallet,Paid,113.84
+2149,Cash on Delivery,Pending,0.0
+2150,Debit Card,Paid,244.19
+2151,Debit Card,Paid,190.91
+2152,Wallet,Paid,204.03
+2153,Net Banking,Paid,67.36
+2154,UPI,Paid,119.87
+2155,Credit Card,Failed,0.0
+2156,Net Banking,Failed,0.0
+2157,Wallet,Paid,131.93
+2158,Debit Card,Paid,98.24
+2159,Net Banking,Paid,26.02
+2160,Cash on Delivery,Paid,72.92
+2161,Credit Card,Paid,52.0
+2162,Cash on Delivery,Paid,10.74
+2163,Credit Card,Paid,8.02
+2164,Wallet,Pending,0.0
+2165,Credit Card,Paid,157.07
+2166,Cash on Delivery,Failed,0.0
+2167,Net Banking,Paid,55.79
+2168,Credit Card,Pending,0.0
+2169,UPI,Paid,221.99
+2170,Cash on Delivery,Paid,131.19
+2171,Wallet,Paid,110.34
+2172,Debit Card,Paid,190.62
+2173,Debit Card,Paid,37.34
+2174,Credit Card,Paid,1.65
+2175,UPI,Paid,137.6
+2176,Net Banking,Paid,63.35
+2177,Net Banking,Paid,170.47
+2178,Cash on Delivery,Paid,174.55
+2179,Credit Card,Paid,157.31
+2180,Credit Card,Paid,156.18
+2181,Debit Card,Paid,83.0
+2182,UPI,Paid,4.58
+2183,UPI,Paid,8.09
+2184,Debit Card,Paid,172.16
+2185,Wallet,Paid,32.22
+2186,Credit Card,Paid,52.0
+2187,Credit Card,Paid,104.59
+2188,Credit Card,Failed,0.0
+2189,Debit Card,Paid,9.57
+2190,Cash on Delivery,Paid,57.73
+2191,Credit Card,Paid,167.42
+2192,Wallet,Paid,68.66
+2193,Debit Card,Failed,0.0
+2194,Cash on Delivery,Paid,28.68
+2195,Cash on Delivery,Paid,35.39
+2196,UPI,Pending,0.0
+2197,UPI,Paid,217.8
+2198,Credit Card,Paid,30.99
+2199,Net Banking,Paid,153.05
+2200,Net Banking,Paid,181.72
+2201,Credit Card,Paid,51.59
+2202,Debit Card,Paid,69.61
+2203,UPI,Paid,97.38
+2204,Debit Card,Paid,145.07
+2205,Wallet,Paid,136.65
+2206,Wallet,Paid,82.82
+2207,Debit Card,Paid,182.22
+2208,Net Banking,Paid,74.83
+2209,Net Banking,Paid,207.53
+2210,UPI,Paid,146.59
+2211,UPI,Paid,89.67
+2212,UPI,Paid,163.55
+2213,Net Banking,Failed,0.0
+2214,Wallet,Paid,103.93
+2215,Credit Card,Paid,30.54
+2216,Wallet,Paid,82.85
+2217,Credit Card,Paid,174.08
+2218,Cash on Delivery,Paid,233.86
+2219,Cash on Delivery,Paid,48.28
+2220,Net Banking,Paid,158.99
+2221,Debit Card,Paid,185.04
+2222,Wallet,Pending,0.0
+2223,Net Banking,Paid,43.59
+2224,Wallet,Paid,49.62
+2225,UPI,Paid,21.73
+2226,Debit Card,Failed,0.0
+2227,Debit Card,Paid,79.84
+2228,Credit Card,Paid,115.75
+2229,Cash on Delivery,Paid,134.58
+2230,Credit Card,Paid,20.61
+2231,Net Banking,Failed,0.0
+2232,Debit Card,Failed,0.0
+2233,UPI,Paid,242.34
+2234,Debit Card,Paid,200.59
+2235,Cash on Delivery,Paid,1.75
+2236,Net Banking,Paid,29.43
+2237,UPI,Paid,199.82
+2238,Debit Card,Failed,0.0
+2239,Credit Card,Paid,44.52
+2240,Credit Card,Failed,0.0
+2241,Wallet,Paid,82.12
+2242,Debit Card,Paid,165.19
+2243,Credit Card,Paid,11.3
+2244,Debit Card,Paid,140.88
+2245,Net Banking,Paid,123.98
+2246,UPI,Paid,26.74
+2247,Net Banking,Paid,247.36
+2248,Credit Card,Paid,4.58
+2249,Debit Card,Paid,116.93
+2250,Net Banking,Failed,0.0
+2251,Debit Card,Paid,191.76
+2252,UPI,Paid,249.33
+2253,Cash on Delivery,Paid,244.73
+2254,Cash on Delivery,Paid,142.61
+2255,UPI,Pending,0.0
+2256,UPI,Failed,0.0
+2257,Wallet,Paid,232.09
+2258,Credit Card,Failed,0.0
+2259,Credit Card,Paid,50.35
+2260,Cash on Delivery,Paid,194.21
+2261,Cash on Delivery,Paid,48.94
+2262,Wallet,Paid,187.08
+2263,Cash on Delivery,Paid,158.9
+2264,Cash on Delivery,Pending,0.0
+2265,Credit Card,Paid,1.76
+2266,Net Banking,Failed,0.0
+2267,UPI,Paid,185.12
+2268,Wallet,Paid,209.28
+2269,Wallet,Paid,119.79
+2270,Cash on Delivery,Pending,0.0
+2271,UPI,Paid,158.35
+2272,Wallet,Pending,0.0
+2273,UPI,Paid,228.09
+2274,Credit Card,Paid,52.81
+2275,Wallet,Paid,135.25
+2276,Debit Card,Paid,220.63
+2277,Debit Card,Paid,183.47
+2278,Cash on Delivery,Failed,0.0
+2279,Cash on Delivery,Paid,99.14
+2280,Cash on Delivery,Paid,193.24
+2281,Credit Card,Paid,242.29
+2282,Wallet,Paid,60.68
+2283,Cash on Delivery,Paid,2.14
+2284,Credit Card,Paid,124.11
+2285,Cash on Delivery,Paid,245.05
+2286,Wallet,Paid,163.37
+2287,Debit Card,Paid,78.16
+2288,Wallet,Failed,0.0
+2289,Wallet,Pending,0.0
+2290,Debit Card,Paid,69.28
+2291,UPI,Paid,112.97
+2292,Credit Card,Paid,185.95
+2293,Wallet,Paid,192.8
+2294,Wallet,Paid,58.06
+2295,Net Banking,Failed,0.0
+2296,Cash on Delivery,Paid,27.28
+2297,Wallet,Paid,64.78
+2298,Wallet,Paid,229.9
+2299,Cash on Delivery,Paid,128.93
+2300,Wallet,Failed,0.0
+2301,Cash on Delivery,Paid,185.19
+2302,Cash on Delivery,Paid,176.01
+2303,Net Banking,Paid,90.97
+2304,Net Banking,Paid,126.85
+2305,Wallet,Paid,124.22
+2306,Cash on Delivery,Paid,18.01
+2307,Debit Card,Paid,249.0
+2308,Debit Card,Paid,169.3
+2309,Wallet,Paid,52.63
+2310,Wallet,Failed,0.0
+2311,Wallet,Paid,210.05
+2312,Net Banking,Paid,23.48
+2313,Wallet,Pending,0.0
+2314,Debit Card,Paid,164.4
+2315,UPI,Paid,122.98
+2316,Net Banking,Paid,145.97
+2317,Credit Card,Paid,178.87
+2318,Debit Card,Paid,3.41
+2319,Net Banking,Pending,0.0
+2320,Cash on Delivery,Paid,85.02
+2321,Debit Card,Pending,0.0
+2322,UPI,Paid,182.01
+2323,Credit Card,Paid,232.42
+2324,Net Banking,Paid,78.77
+2325,Credit Card,Paid,78.39
+2326,Debit Card,Paid,202.22
+2327,Net Banking,Paid,38.97
+2328,UPI,Paid,47.09
+2329,Credit Card,Failed,0.0
+2330,Net Banking,Paid,18.71
+2331,Cash on Delivery,Paid,82.43
+2332,Credit Card,Paid,177.59
+2333,Debit Card,Paid,173.72
+2334,UPI,Failed,0.0
+2335,Credit Card,Pending,0.0
+2336,Net Banking,Paid,28.39
+2337,Credit Card,Paid,104.52
+2338,Debit Card,Paid,140.9
+2339,Net Banking,Paid,27.79
+2340,Cash on Delivery,Paid,140.93
+2341,Wallet,Failed,0.0
+2342,Wallet,Paid,36.87
+2343,UPI,Paid,210.68
+2344,Net Banking,Paid,183.74
+2345,UPI,Failed,0.0
+2346,Credit Card,Pending,0.0
+2347,Cash on Delivery,Paid,162.28
+2348,Wallet,Paid,6.6
+2349,Net Banking,Failed,0.0
+2350,Net Banking,Paid,139.36
+2351,Wallet,Paid,1.09
+2352,Debit Card,Failed,0.0
+2353,Debit Card,Paid,202.82
+2354,Debit Card,Failed,0.0
+2355,UPI,Paid,31.52
+2356,Wallet,Paid,83.21
+2357,Net Banking,Paid,121.82
+2358,Wallet,Paid,77.9
+2359,Credit Card,Paid,161.54
+2360,Credit Card,Paid,144.14
+2361,Debit Card,Paid,169.59
+2362,UPI,Paid,129.89
+2363,Credit Card,Paid,100.08
+2364,Wallet,Paid,245.76
+2365,Net Banking,Paid,222.45
+2366,Credit Card,Paid,236.74
+2367,UPI,Paid,141.06
+2368,Debit Card,Paid,169.13
+2369,Net Banking,Paid,193.31
+2370,Wallet,Paid,234.64
+2371,Wallet,Paid,16.78
+2372,UPI,Paid,43.16
+2373,Cash on Delivery,Paid,212.09
+2374,Cash on Delivery,Paid,8.29
+2375,Net Banking,Paid,223.51
+2376,Net Banking,Pending,0.0
+2377,Credit Card,Failed,0.0
+2378,Wallet,Failed,0.0
+2379,Wallet,Paid,48.41
+2380,Wallet,Paid,204.47
+2381,Wallet,Paid,213.79
+2382,Cash on Delivery,Paid,39.39
+2383,Wallet,Pending,0.0
+2384,UPI,Paid,0.61
+2385,UPI,Paid,120.1
+2386,Net Banking,Paid,10.53
+2387,Cash on Delivery,Paid,31.48
+2388,Credit Card,Paid,163.09
+2389,Debit Card,Paid,45.46
+2390,Debit Card,Paid,71.52
+2391,Net Banking,Paid,183.83
+2392,Net Banking,Paid,197.32
+2393,Credit Card,Pending,0.0
+2394,UPI,Failed,0.0
+2395,Credit Card,Paid,39.69
+2396,Wallet,Paid,186.82
+2397,UPI,Paid,245.21
+2398,Cash on Delivery,Paid,138.35
+2399,Debit Card,Pending,0.0
+2400,Net Banking,Paid,91.42
+2401,Credit Card,Paid,185.16
+2402,Net Banking,Paid,3.29
+2403,Wallet,Paid,205.48
+2404,Debit Card,Paid,109.99
+2405,Debit Card,Paid,229.2
+2406,Credit Card,Failed,0.0
+2407,Credit Card,Paid,113.26
+2408,Debit Card,Paid,117.32
+2409,Cash on Delivery,Failed,0.0
+2410,Debit Card,Pending,0.0
+2411,UPI,Paid,202.62
+2412,Debit Card,Paid,104.14
+2413,Net Banking,Paid,193.86
+2414,Net Banking,Paid,21.6
+2415,Cash on Delivery,Pending,0.0
+2416,Net Banking,Paid,238.37
+2417,Debit Card,Paid,38.77
+2418,Cash on Delivery,Paid,34.08
+2419,Credit Card,Paid,223.4
+2420,UPI,Paid,176.86
+2421,Debit Card,Paid,29.88
+2422,Debit Card,Paid,48.97
+2423,Wallet,Paid,128.99
+2424,Debit Card,Paid,96.8
+2425,Cash on Delivery,Paid,128.83
+2426,UPI,Paid,172.49
+2427,Net Banking,Failed,0.0
+2428,Net Banking,Paid,242.35
+2429,Debit Card,Paid,158.99
+2430,Cash on Delivery,Paid,130.92
+2431,Credit Card,Pending,0.0
+2432,Debit Card,Paid,33.38
+2433,Credit Card,Paid,245.75
+2434,Debit Card,Paid,20.8
+2435,UPI,Paid,21.19
+2436,Cash on Delivery,Paid,139.09
+2437,UPI,Paid,130.57
+2438,UPI,Failed,0.0
+2439,UPI,Pending,0.0
+2440,Wallet,Paid,128.61
+2441,Wallet,Failed,0.0
+2442,Net Banking,Paid,218.06
+2443,Credit Card,Paid,9.85
+2444,UPI,Paid,181.13
+2445,Debit Card,Paid,14.55
+2446,Net Banking,Paid,243.76
+2447,Wallet,Paid,110.66
+2448,Wallet,Paid,37.92
+2449,Net Banking,Pending,0.0
+2450,UPI,Paid,81.88
+2451,UPI,Paid,231.59
+2452,Cash on Delivery,Failed,0.0
+2453,UPI,Pending,0.0
+2454,UPI,Paid,203.81
+2455,Wallet,Paid,90.53
+2456,UPI,Paid,93.06
+2457,Credit Card,Failed,0.0
+2458,Debit Card,Paid,141.34
+2459,Wallet,Paid,57.41
+2460,Credit Card,Paid,8.19
+2461,Wallet,Paid,43.04
+2462,Net Banking,Pending,0.0
+2463,Cash on Delivery,Paid,197.64
+2464,Wallet,Paid,115.18
+2465,Wallet,Paid,215.02
+2466,Credit Card,Paid,217.04
+2467,Cash on Delivery,Paid,216.77
+2468,Wallet,Failed,0.0
+2469,Credit Card,Paid,86.64
+2470,Wallet,Paid,170.11
+2471,Debit Card,Paid,167.24
+2472,Debit Card,Paid,20.85
+2473,Debit Card,Paid,194.64
+2474,Debit Card,Paid,9.84
+2475,Wallet,Paid,212.7
+2476,Credit Card,Paid,59.59
+2477,Cash on Delivery,Pending,0.0
+2478,Net Banking,Paid,197.35
+2479,Net Banking,Paid,185.39
+2480,Wallet,Paid,151.98
+2481,UPI,Paid,185.89
+2482,Net Banking,Failed,0.0
+2483,UPI,Paid,209.37
+2484,Net Banking,Paid,191.71
+2485,Net Banking,Failed,0.0
+2486,Wallet,Paid,11.61
+2487,Debit Card,Paid,153.84
+2488,Cash on Delivery,Paid,19.71
+2489,Cash on Delivery,Paid,8.72
+2490,Debit Card,Paid,125.83
+2491,Wallet,Paid,11.28
+2492,Debit Card,Paid,66.38
+2493,Cash on Delivery,Paid,144.39
+2494,Credit Card,Paid,64.61
+2495,Debit Card,Paid,36.34
+2496,Cash on Delivery,Paid,27.32
+2497,UPI,Pending,0.0
+2498,UPI,Paid,227.76
+2499,Wallet,Paid,215.4
+2500,Debit Card,Failed,0.0

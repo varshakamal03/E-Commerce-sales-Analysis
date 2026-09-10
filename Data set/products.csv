@@ -1,0 +1,101 @@
+product_id,product_name,category,brand,unit_price
+1,Laptop 1,Electronics,Brand C,53878
+2,Laptop 2,Electronics,Brand C,7163
+3,Laptop 3,Electronics,Brand C,8939
+4,Laptop 4,Electronics,Brand D,12687
+5,Smartphone 1,Electronics,Brand C,37543
+6,Smartphone 2,Electronics,Brand C,20009
+7,Smartphone 3,Electronics,Brand B,10982
+8,Smartphone 4,Electronics,Brand C,46151
+9,Headphones 1,Electronics,Brand B,51674
+10,Headphones 2,Electronics,Brand C,11404
+11,Headphones 3,Electronics,Brand C,49672
+12,Headphones 4,Electronics,Brand A,17050
+13,Smartwatch 1,Electronics,Brand C,55796
+14,Smartwatch 2,Electronics,Brand C,2689
+15,Smartwatch 3,Electronics,Brand B,40783
+16,Smartwatch 4,Electronics,Brand C,28374
+17,Tablet 1,Electronics,Brand B,64036
+18,Tablet 2,Electronics,Brand B,29993
+19,Tablet 3,Electronics,Brand A,20608
+20,Tablet 4,Electronics,Brand A,39070
+21,Mixer 1,Home & Kitchen,Brand A,8617
+22,Mixer 2,Home & Kitchen,Brand B,5817
+23,Mixer 3,Home & Kitchen,Brand B,6472
+24,Mixer 4,Home & Kitchen,Brand B,2958
+25,Air Fryer 1,Home & Kitchen,Brand D,3012
+26,Air Fryer 2,Home & Kitchen,Brand D,1015
+27,Air Fryer 3,Home & Kitchen,Brand B,6268
+28,Air Fryer 4,Home & Kitchen,Brand C,7577
+29,Cookware 1,Home & Kitchen,Brand B,7655
+30,Cookware 2,Home & Kitchen,Brand B,9049
+31,Cookware 3,Home & Kitchen,Brand D,5370
+32,Cookware 4,Home & Kitchen,Brand C,3478
+33,Vacuum Cleaner 1,Home & Kitchen,Brand D,9645
+34,Vacuum Cleaner 2,Home & Kitchen,Brand C,7864
+35,Vacuum Cleaner 3,Home & Kitchen,Brand D,6556
+36,Vacuum Cleaner 4,Home & Kitchen,Brand B,2955
+37,Coffee Maker 1,Home & Kitchen,Brand C,2567
+38,Coffee Maker 2,Home & Kitchen,Brand D,1154
+39,Coffee Maker 3,Home & Kitchen,Brand A,6381
+40,Coffee Maker 4,Home & Kitchen,Brand A,8752
+41,T-Shirt 1,Fashion,Brand A,4970
+42,T-Shirt 2,Fashion,Brand C,2926
+43,T-Shirt 3,Fashion,Brand B,7661
+44,T-Shirt 4,Fashion,Brand A,7467
+45,Jeans 1,Fashion,Brand D,3937
+46,Jeans 2,Fashion,Brand A,6027
+47,Jeans 3,Fashion,Brand A,7097
+48,Jeans 4,Fashion,Brand C,6795
+49,Sneakers 1,Fashion,Brand D,4162
+50,Sneakers 2,Fashion,Brand C,1637
+51,Sneakers 3,Fashion,Brand A,3978
+52,Sneakers 4,Fashion,Brand A,5521
+53,Jacket 1,Fashion,Brand B,5793
+54,Jacket 2,Fashion,Brand A,2554
+55,Jacket 3,Fashion,Brand D,5000
+56,Jacket 4,Fashion,Brand D,2573
+57,Handbag 1,Fashion,Brand A,7649
+58,Handbag 2,Fashion,Brand A,1598
+59,Handbag 3,Fashion,Brand B,4493
+60,Handbag 4,Fashion,Brand D,2749
+61,Face Wash 1,Beauty,Brand C,2121
+62,Face Wash 2,Beauty,Brand C,4193
+63,Face Wash 3,Beauty,Brand A,2296
+64,Face Wash 4,Beauty,Brand D,4206
+65,Shampoo 1,Beauty,Brand A,7789
+66,Shampoo 2,Beauty,Brand D,2116
+67,Shampoo 3,Beauty,Brand A,9082
+68,Shampoo 4,Beauty,Brand B,8743
+69,Perfume 1,Beauty,Brand C,2652
+70,Perfume 2,Beauty,Brand A,7332
+71,Perfume 3,Beauty,Brand B,6080
+72,Perfume 4,Beauty,Brand D,9649
+73,Moisturizer 1,Beauty,Brand A,3368
+74,Moisturizer 2,Beauty,Brand C,8876
+75,Moisturizer 3,Beauty,Brand A,1408
+76,Moisturizer 4,Beauty,Brand D,6697
+77,Makeup Kit 1,Beauty,Brand D,1013
+78,Makeup Kit 2,Beauty,Brand C,6416
+79,Makeup Kit 3,Beauty,Brand C,566
+80,Makeup Kit 4,Beauty,Brand C,1406
+81,Cricket Bat 1,Sports,Brand A,4250
+82,Cricket Bat 2,Sports,Brand C,9833
+83,Cricket Bat 3,Sports,Brand A,2485
+84,Cricket Bat 4,Sports,Brand C,6072
+85,Football 1,Sports,Brand D,3168
+86,Football 2,Sports,Brand B,8140
+87,Football 3,Sports,Brand A,2509
+88,Football 4,Sports,Brand A,7798
+89,Yoga Mat 1,Sports,Brand B,5107
+90,Yoga Mat 2,Sports,Brand B,1017
+91,Yoga Mat 3,Sports,Brand C,986
+92,Yoga Mat 4,Sports,Brand D,5380
+93,Running Shoes 1,Sports,Brand D,9197
+94,Running Shoes 2,Sports,Brand A,4450
+95,Running Shoes 3,Sports,Brand C,3431
+96,Running Shoes 4,Sports,Brand A,6148
+97,Dumbbells 1,Sports,Brand C,5738
+98,Dumbbells 2,Sports,Brand C,2339
+99,Dumbbells 3,Sports,Brand D,7459
+100,Dumbbells 4,Sports,Brand D,7504
